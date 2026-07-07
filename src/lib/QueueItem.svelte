@@ -3,6 +3,8 @@
   import { incrementQty, decrementQty } from './queue.svelte.js';
 
   let { item, onremove = () => {} } = $props();
+
+  let totalOutput = $derived(item.quantity * item.outputQty);
 </script>
 
 <li class="bg-[rgba(255,255,255,0.4)] iron-border-inset p-2 flex items-center justify-between gap-2">
@@ -12,7 +14,7 @@
     </div>
     <div class="flex flex-col min-w-0">
       <span class="font-[var(--font-family-headline)] font-semibold text-on-parchment text-lg leading-tight truncate">
-        {item.name}
+        {item.name}{#if item.outputQty > 1} {" "}x{item.outputQty}{/if} (Total: {totalOutput})
       </span>
       {#if item.inputs.length > 0}
         <div class="flex flex-wrap items-center gap-x-3 gap-y-1 mt-1 opacity-70 text-[13px] font-semibold tracking-wide text-on-parchment-muted">
