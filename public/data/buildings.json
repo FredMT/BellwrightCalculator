@@ -1,0 +1,6824 @@
+[
+  {
+    "id": "Apiary",
+    "name": "Apiary",
+    "icon": "T_BuildingsApinary",
+    "category": "Farming",
+    "description": "Provides your settlement with honey over time.",
+    "unlockId": "Apiary",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 17
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 5
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Apiary.json",
+    "unlockName": "Apiary"
+  },
+  {
+    "id": "Armourer",
+    "name": "Armourer",
+    "icon": "T_BuildingsArmourer",
+    "category": "TownBuildingCrafting",
+    "description": "Used for producing the most advanced armors.",
+    "unlockId": "Armourer",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 30
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 12
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 8
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 18
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 28
+      },
+      {
+        "itemId": "Canvas",
+        "itemName": "Canvas",
+        "itemIcon": "T_Canvas",
+        "quantity": 10
+      },
+      {
+        "itemId": "SteelIngot",
+        "itemName": "Steel Ingot",
+        "itemIcon": "T_IconResourceIronBlock",
+        "quantity": 16
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Armourer.json",
+    "unlockName": "Armourer"
+  },
+  {
+    "id": "ArrowRack",
+    "name": "Arrows Rack",
+    "icon": "T_WeaponIconsArrow01_base",
+    "category": "TownBuildingStorage",
+    "description": "Serves as a storage for arrows and bolts, where your Guards and Companions can fill their quivers.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ArrowRackItem",
+        "itemName": "Ammunition Basket",
+        "itemIcon": "T_ArrowRack",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ArrowRack.json",
+    "unlockName": null
+  },
+  {
+    "id": "Bakery",
+    "name": "Bakery",
+    "icon": "T_BuildingsBakery",
+    "category": "TownBuildingCooking",
+    "description": "Uses flour and heat to either bake bread to ensure no one goes hungry or to craft delicious pastries that boost attributes and morale.",
+    "unlockId": "Bakery",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 21
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 33
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 17
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 22
+      },
+      {
+        "itemId": "Granite",
+        "itemName": "Granite",
+        "itemIcon": "T_Granite",
+        "quantity": 35
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Bakery.json",
+    "unlockName": "Bakery"
+  },
+  {
+    "id": "Barn",
+    "name": "Barn",
+    "icon": "T_BuildinggBarn",
+    "category": "TownBuildingStorage",
+    "description": "A solid shared storage solution for your grown goods. From grain to timber, it's here to keep your treasures safe and sound, no frills attached.",
+    "unlockId": "Barn",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 4
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 4
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 26
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Barn.json",
+    "unlockName": "Barn"
+  },
+  {
+    "id": "Basket",
+    "name": "Basket",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Basket.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Basket",
+        "itemName": "Basket",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Basket.json",
+    "unlockName": null
+  },
+  {
+    "id": "BatteringRam",
+    "name": "Battering Ram",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "FOR TRAILER",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Unobtainable",
+        "itemName": "Unobtainable",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/SiegeWeapons/BatteringRam.json",
+    "unlockName": null
+  },
+  {
+    "id": "BigBallista",
+    "name": "Big Ballista",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "FOR TRAILER",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Unobtainable",
+        "itemName": "Unobtainable",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/SiegeWeapons/BigBallista.json",
+    "unlockName": null
+  },
+  {
+    "id": "BigBarn",
+    "name": "Big Barn",
+    "icon": null,
+    "category": "TownBuildingStorage",
+    "description": "Shared storage container with shelves that increase storage capacity.",
+    "unlockId": "BigBarn",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/BigBarn.json",
+    "unlockName": "BigBarn"
+  },
+  {
+    "id": "BigHouse",
+    "name": "Big House",
+    "icon": "T_BuildinggBigHouse",
+    "category": "TownBuildingGeneral",
+    "description": "A cozy building that can house up to 7 settlers and significantly affect their morale.",
+    "unlockId": "BigHouse",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 27
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 8
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 23
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 11
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 16
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/BigHouse.json",
+    "unlockName": "BigHouse"
+  },
+  {
+    "id": "BirdsCoop",
+    "name": "Birds Coop",
+    "icon": null,
+    "category": "TownBuildingAnimalHandling",
+    "description": "A secure shelter for chickens and other birds, allowing breeding and housing up to 10 animals that provide valuble resources such as eggs and feathers. Animals require special feed.",
+    "unlockId": "BirdsCoop",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 15
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 6
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/BirdsCoop.json",
+    "unlockName": "BirdsCoop"
+  },
+  {
+    "id": "Blacksmith",
+    "name": "Blacksmith",
+    "icon": "T_BuildingsBlacksmith",
+    "category": "TownBuildingCrafting",
+    "description": "Used for crafting the most advanced weapons.",
+    "unlockId": "Blacksmith",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 25
+      },
+      {
+        "itemId": "Mosses",
+        "itemName": "Mosses",
+        "itemIcon": "T_IconResourceMosses",
+        "quantity": 15
+      },
+      {
+        "itemId": "Granite",
+        "itemName": "Granite",
+        "itemIcon": "T_Granite",
+        "quantity": 30
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 27
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 24
+      },
+      {
+        "itemId": "SteelIngot",
+        "itemName": "Steel Ingot",
+        "itemIcon": "T_IconResourceIronBlock",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Blacksmith.json",
+    "unlockName": "Blacksmith"
+  },
+  {
+    "id": "Bloomery",
+    "name": "Bloomery",
+    "icon": "T_Bloomery",
+    "category": "TownBuildingCrafting",
+    "description": "Used for smelting copper, tin and bronze ingots. Requires wood as fuel.",
+    "unlockId": "Bloomery",
+    "inputs": [
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 15
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Bloomery.json",
+    "unlockName": "Bloomery"
+  },
+  {
+    "id": "BlossomveilBush",
+    "name": "Blossomveil Bush",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "BlossomveilBush",
+        "itemName": "Blossomveil Bush",
+        "itemIcon": "T_BlossomveilBush",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/BlossomveilBush.json",
+    "unlockName": null
+  },
+  {
+    "id": "BoarTrophy",
+    "name": "Boar Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Boar trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "BoarTrophyItem",
+        "itemName": "Boar Trophy",
+        "itemIcon": "T_BoarTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/BoarTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "BoltRack",
+    "name": "Bolts",
+    "icon": "T_WoodenBolt",
+    "category": "TownBuildingStorage",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ArrowRackItem",
+        "itemName": "Ammunition Basket",
+        "itemIcon": "T_ArrowRack",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/BoltRack.json",
+    "unlockName": null
+  },
+  {
+    "id": "BucketWithMetalHandle",
+    "name": "Bucket With Metal Handle",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "A Bucket With Metal Handle.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "BucketWithMetalHandle",
+        "itemName": "Bucket With Metal Handle",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/BucketWithMetalHandle.json",
+    "unlockName": null
+  },
+  {
+    "id": "ButcheryBench",
+    "name": "Butchery",
+    "icon": null,
+    "category": "TownBuildingAnimalHandling",
+    "description": "Allows you and your settlers to refine animal carcasses obtained by hunting or slaughtering animals into yield.",
+    "unlockId": "ButcheryBench",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 7
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ButcheryBench.json",
+    "unlockName": "ButcheryBench"
+  },
+  {
+    "id": "Campfire",
+    "name": "Campfire",
+    "icon": null,
+    "category": "TownBuildingCooking",
+    "description": "A small primitive source of heat for cooking basic foods. Requires wood to maintain the fire.",
+    "unlockId": "Campfire",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 5
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Campfire.json",
+    "unlockName": "Campfire"
+  },
+  {
+    "id": "Campsite",
+    "name": "Campsite",
+    "icon": "T_BuildingsCampsite",
+    "category": "TownBuildingStorage",
+    "description": "Automates cooking for you by assigning your settlers to the Campsite.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 6
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Campsite.json",
+    "unlockName": null
+  },
+  {
+    "id": "CarpenterHouse",
+    "name": "Carpenter's House",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Carpenter refines timber into sturdier planks.",
+    "unlockId": "CarpenterHouse",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 7
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CarpenterHouse.json",
+    "unlockName": "CarpenterHouse"
+  },
+  {
+    "id": "CattlePen",
+    "name": "Livestock barn",
+    "icon": "CattlePen",
+    "category": "TownBuildingAnimalHandling",
+    "description": "A sturdy enclosure for cows, pig and sheep, supporting breeding and accommodating up to 8 animals that produce milk, wool and yield on slaughtering. Animals require special feed.",
+    "unlockId": "CattlePen",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CattlePen.json",
+    "unlockName": "CattlePen"
+  },
+  {
+    "id": "Cauldron",
+    "name": "Campfire with Cauldron",
+    "icon": null,
+    "category": "TownBuildingCooking",
+    "description": "Campfire with a cauldron. Can cook various stews using water, herbs and a main ingredient. Requires wood to maintain the fire.",
+    "unlockId": "CauldronCampfire",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "TinIngot",
+        "itemName": "Tin Ingot",
+        "itemIcon": "T_IconResourceSteelBar",
+        "quantity": 1
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Cauldron.json",
+    "unlockName": "CauldronCampfire"
+  },
+  {
+    "id": "CharcoalBurner",
+    "name": "Charcoal Burner",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Used for producing Charcoal by burning Logs",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 3
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CharcoalBurner.json",
+    "unlockName": null
+  },
+  {
+    "id": "ClawfinTrophy",
+    "name": "Clawfin Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Clawfin trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ClawfinTrophy",
+        "itemName": "Clawfin Trophy",
+        "itemIcon": "T_GoldenScaletailTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ClawfinTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "ClosedBarrel",
+    "name": "Closed Barrel",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Closed Barrel.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ClosedBarrel",
+        "itemName": "Closed Barrel",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/ClosedBarrel.json",
+    "unlockName": null
+  },
+  {
+    "id": "ClosedBasket",
+    "name": "Closed Basket",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Closed Basket.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ClosedBasket",
+        "itemName": "Closed Basket",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/ClosedBasket.json",
+    "unlockName": null
+  },
+  {
+    "id": "CoalBurner",
+    "name": "Coal Burner",
+    "icon": "T_BuildingsCoalBurner",
+    "category": "TownBuildingCrafting",
+    "description": "Used for producing charcoal and resin by burning logs.",
+    "unlockId": "CoalBurner",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 26
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 25
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 6
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 14
+      },
+      {
+        "itemId": "Mosses",
+        "itemName": "Mosses",
+        "itemIcon": "T_IconResourceMosses",
+        "quantity": 22
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CoalBurner.json",
+    "unlockName": "CoalBurner"
+  },
+  {
+    "id": "CoinMint",
+    "name": "Coin Mint",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Mints new coins out of gold bars, allowing to produce your own currency.",
+    "unlockId": "CoinMint",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 50
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 40
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 35
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CoinMint.json",
+    "unlockName": "CoinMint"
+  },
+  {
+    "id": "CompostPile",
+    "name": "Compost Pile",
+    "icon": "T_CompostPile",
+    "category": "TownBuildingCrafting",
+    "description": "Used for producing fertilizer by refining burnt and spoiled food.",
+    "unlockId": "CompostPile",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 5
+      },
+      {
+        "itemId": "Mud",
+        "itemName": "Mud",
+        "itemIcon": "T_IconResourceMud",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CompostPile.json",
+    "unlockName": "CompostPile"
+  },
+  {
+    "id": "Cottage",
+    "name": "Cottage",
+    "icon": "T_BuildingCottage",
+    "category": "TownBuildingGeneral",
+    "description": "Nicer version of player's house.",
+    "unlockId": "Cottage",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 16
+      },
+      {
+        "itemId": "Canvas",
+        "itemName": "Canvas",
+        "itemIcon": "T_Canvas",
+        "quantity": 14
+      },
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Cottage.json",
+    "unlockName": "Cottage"
+  },
+  {
+    "id": "CraftsmansNook",
+    "name": "Craftsman's Nook",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "A small workshop where you can craft decorative items to make your village cozy and inviting.",
+    "unlockId": "CraftsmansNook",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 16
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/CraftsmansNook.json",
+    "unlockName": "CraftsmansNook"
+  },
+  {
+    "id": "DamagedGrave",
+    "name": "Damaged Grave",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "DamagedGrave",
+        "itemName": "Damaged Grave",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/DamagedGrave.json",
+    "unlockName": null
+  },
+  {
+    "id": "DaruShrine",
+    "name": "Daru the Elderbark Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Daru is a colossal tree whose trunk and branches resemble an ancient, gnarled oak, deeply rooted and sprawling. Its bark is a deep dark mahogany color. The most striking feature is its many faces: carved into the bark are numerous faces of different expressions and ages—some wise and serene, others stern and foreboding. These faces can shift, giving the impression that they are watching and listening, ever observant.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "DaruShrine",
+        "itemName": "Daru the Elderbark Shrine",
+        "itemIcon": "T_DaruShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/DaruShrine.json",
+    "unlockName": null
+  },
+  {
+    "id": "DemonBoarTrophy",
+    "name": "Demon Boar Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Demon Boar trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "DemonBoarTrophyItem",
+        "itemName": "Demon Boar Trophy",
+        "itemIcon": "T_DemonBoarTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/DemonBoarTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "DevannosShrine",
+    "name": "Devannos Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Devannos is the god of war and hunting, guiding both warriors and hunters with his divine precision. His influence ensures arrows fly true and battles are won in his honor. According to legend, Devannos taught the first hunters how to track and take down prey, his guidance so precise that even novices could not miss. He is said to have intervened in the Battle of Bloodfields, guiding arrows to secure victory for his favored warriors. Some believe Devannos walks among mortals as a silent archer, testing skills and rewarding the worthy.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "DevannosShrine",
+        "itemName": "Devannos Shrine",
+        "itemIcon": "T_DevannosShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/DevannosShrine.json",
+    "unlockName": null
+  },
+  {
+    "id": "DevastatedGrave",
+    "name": "Devastated Grave",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "DevastatedGrave",
+        "itemName": "Devastated Grave",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/DevastatedGrave.json",
+    "unlockName": null
+  },
+  {
+    "id": "DicePlaceable",
+    "name": "Dice Game Spot",
+    "icon": "T_DiceIcon",
+    "category": "Decorations",
+    "description": "A simple dice game setup where players can roll dice on a wooden barrel.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "DiceItem",
+        "itemName": "Dice Game Spot",
+        "itemIcon": "T_DiceIcon",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Items/PlaceableDecorations/Tier_3/Dice/DicePlaceable.json",
+    "unlockName": null
+  },
+  {
+    "id": "Distillery",
+    "name": "Distillery",
+    "icon": "T_Brewery",
+    "category": "TownBuildingCrafting",
+    "description": "Refines raw produce into alcoholic beverages.",
+    "unlockId": "Distillery",
+    "inputs": [
+      {
+        "itemId": "Wool",
+        "itemName": "Wool",
+        "itemIcon": "T_IconResourceWool",
+        "quantity": 20
+      },
+      {
+        "itemId": "Granite",
+        "itemName": "Granite",
+        "itemIcon": "T_Granite",
+        "quantity": 50
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 50
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 30
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Distillery.json",
+    "unlockName": "Distillery"
+  },
+  {
+    "id": "Dockyard",
+    "name": "Dockyard",
+    "icon": "T_Dockyard",
+    "category": "Roads",
+    "description": "Allows travelling to the new land.",
+    "unlockId": "Dockyard",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 100
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 35
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 25
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 32
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 38
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Dockyard.json",
+    "unlockName": "Dockyard"
+  },
+  {
+    "id": "Dockyard_BIG",
+    "name": "Dockyard (BIG)",
+    "icon": "T_NavigateEvent",
+    "category": "TownBuildingGeneral",
+    "description": "Allows travelling to the new land.",
+    "unlockId": "Dockyard",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 38
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 100
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 26
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 25
+      },
+      {
+        "itemId": "Mosses",
+        "itemName": "Mosses",
+        "itemIcon": "T_IconResourceMosses",
+        "quantity": 33
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 20
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Dockyard_BIG.json",
+    "unlockName": "Dockyard"
+  },
+  {
+    "id": "DrinkStand",
+    "name": "Drink Stand",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/DrinkStand.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "DryingRack",
+    "name": "Drying Rack",
+    "icon": "T_BuildingsDryingRack",
+    "category": "TownBuildingCrafting",
+    "description": "Used to dry out animal hide.",
+    "unlockId": "DryingRack_forHide",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/DryingRack.json",
+    "unlockName": "DryingRack_forHide"
+  },
+  {
+    "id": "ErdanaShrine",
+    "name": "Erdana Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Erdana, the Earth Mother, embodies the nurturing and sustaining aspects of nature. She is revered as the source of fertility, growth, and prosperity, with her influence felt in every harvest and blooming flower. Erdana is believed to share in the sufferings of her people, feeling their pain during droughts and famines. Her laughter is said to be heard in the rustling of leaves and bubbling of brooks, bringing good fortune to those who listen. Legends tell of Erdana gifting humanity with agricultural knowledge, ensuring her children would never go hungry.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ErdanaShrine",
+        "itemName": "Erdana Shrine",
+        "itemIcon": "T_ErdanaShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/ErdanaShrine.json",
+    "unlockName": null
+  },
+  {
+    "id": "FastTravelSign",
+    "name": "Travel sign",
+    "icon": "T_BuildingsFastTravel",
+    "category": "Roads",
+    "description": "Allows you and your animals fast traveling between two or more signs. You can't fast travel with your companions or when you are in combat. Travel at your own risk if there's foes nearby.",
+    "unlockId": "FastTravelSign",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 5
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/FastTravelSign.json",
+    "unlockName": "FastTravelSign"
+  },
+  {
+    "id": "Fence",
+    "name": "Fence",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": "Simple protection of your settlement borders.",
+    "unlockId": "Fence",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Fence.json",
+    "unlockName": "Fence"
+  },
+  {
+    "id": "FishingCamp",
+    "name": "Fishing Camp",
+    "icon": null,
+    "category": "TownBuildingAnimalHandling",
+    "description": "It allows your villagers to fish, of course, only if you provide them with fishing rods and baits.",
+    "unlockId": "FishingCamp",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 16
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 11
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/FishingCamp.json",
+    "unlockName": "Fishing Camp & Rod"
+  },
+  {
+    "id": "FoodCellar",
+    "name": "Food Cellar",
+    "icon": "T_BuildingFoodcellar",
+    "category": "TownBuildingStorage",
+    "description": "Food stored here spoil more slowly than in regular storage.",
+    "unlockId": "FoodCellar",
+    "inputs": [
+      {
+        "itemId": "Mud",
+        "itemName": "Mud",
+        "itemIcon": "T_IconResourceMud",
+        "quantity": 12
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      },
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 7
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/FoodCellar.json",
+    "unlockName": "FoodCellar"
+  },
+  {
+    "id": "FoodSortingBench",
+    "name": "Food Sorting Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/FoodSortingBench.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "ForagingCamp",
+    "name": "Foraging Camp",
+    "icon": null,
+    "category": "TownBuildingHarvesting",
+    "description": "Harvests plants in the area around it using Workforce. Best to place near lush areas.",
+    "unlockId": "ForagingCamp",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 6
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 12
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ForagingCamp.json",
+    "unlockName": "ForagingCamp"
+  },
+  {
+    "id": "ForagingHut",
+    "name": "Foraging Hut",
+    "icon": null,
+    "category": "TownBuildingHarvesting",
+    "description": "Two workers can simultaneously harvest various plants and resources, increasing efficiency, while drying edibles like mushrooms and berries on forager racks.",
+    "unlockId": "ForagingHut",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 6
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 9
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 14
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 12
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 5
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ForagingHut.json",
+    "unlockName": "ForagingHut"
+  },
+  {
+    "id": "ForagingLodge",
+    "name": "Foraging Lodge",
+    "icon": "T_ForagingLodge",
+    "category": "TownBuildingHarvesting",
+    "description": "Allows more workers to be assigned to it, has a larger storage capacity, extends the harvesting radius, and includes racks to dry various edibles like mushrooms and berries.",
+    "unlockId": "ForagingLodge",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 23
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 21
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 25
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ForagingLodge.json",
+    "unlockName": "ForagingLodge"
+  },
+  {
+    "id": "Forester",
+    "name": "Forester",
+    "icon": "T_Forester",
+    "category": "Farming",
+    "description": "Grows saplings from tree seeds to replenish forest areas.",
+    "unlockId": "Forester",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 7
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 4
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Forester.json",
+    "unlockName": "Forester"
+  },
+  {
+    "id": "Gallow",
+    "name": "Gallow",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Gallow.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Gallow",
+        "itemName": "Gallow",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Gallow.json",
+    "unlockName": null
+  },
+  {
+    "id": "GameTable",
+    "name": "Game Table",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 4
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/GameTable.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "GateSmall",
+    "name": "Gatehouse",
+    "icon": "BP_Gate_small",
+    "category": "TownBuildingDefense",
+    "description": "Fortified gate with elevated defensive position.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 10
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 15
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 20
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 15
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/GateSmall.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "Glassworks",
+    "name": "Glassworks",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Minerals are molten into fine glass.",
+    "unlockId": "Glassworks",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 60
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 40
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 30
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Glassworks.json",
+    "unlockName": "Glassworks"
+  },
+  {
+    "id": "GoldenBandedfishTrophy",
+    "name": "Golden Bandedfish Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Golden Bandedfish trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "GoldenBandedfishTrophy",
+        "itemName": "Golden Bandedfish Trophy",
+        "itemIcon": "T_GoldenBandedfishTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/GoldenBandedfishTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "GoldenClawfinTrophy",
+    "name": "Golden Clawfin Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Golden Clawfin trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "GoldenClawfinTrophy",
+        "itemName": "Golden Clawfin Trophy",
+        "itemIcon": "T_GoldenClawfinTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/GoldenClawfinTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "GrainFarm",
+    "name": "Grain Farm",
+    "icon": null,
+    "category": "TownBuildingHarvesting",
+    "description": "This can be used to farm Grain as long as the soil is suitable. Requires watering and the growing process can be sped up by using fertilizer.",
+    "unlockId": "GrainFarm",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 40
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 25
+      },
+      {
+        "itemId": "Caulc",
+        "itemName": "Caulc",
+        "itemIcon": "T_MissingIcon",
+        "quantity": 10
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 15
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/GrainFarm.json",
+    "unlockName": "GrainFarm"
+  },
+  {
+    "id": "Grave",
+    "name": "Grave",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Grave",
+        "itemName": "Grave",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Grave.json",
+    "unlockName": null
+  },
+  {
+    "id": "GuardHouse",
+    "name": "Guard House",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": "Used to store gear for guards and soldiers.",
+    "unlockId": "GuardHouse",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 30
+      },
+      {
+        "itemId": "Caulc",
+        "itemName": "Caulc",
+        "itemIcon": "T_MissingIcon",
+        "quantity": 20
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 25
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/GuardHouse.json",
+    "unlockName": "Guard House"
+  },
+  {
+    "id": "GuardPost",
+    "name": "Guard Post",
+    "icon": "T_BuildingsGuardPost_1",
+    "category": "TownBuildingDefense",
+    "description": "A sturdy, wooden structure designed for early-warning and defense.",
+    "unlockId": "GuardPost",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 10
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 5
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 5
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 15
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/GuardPost.json",
+    "unlockName": "GuardPost"
+  },
+  {
+    "id": "HarpoonBallista",
+    "name": "Harpoon Ballista",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "FOR TRAILER",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Unobtainable",
+        "itemName": "Unobtainable",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/SiegeWeapons/HarpoonBallista.json",
+    "unlockName": null
+  },
+  {
+    "id": "HerbDryingRack",
+    "name": "Herb Drying Rack",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "Hemp",
+        "itemName": "Hemp",
+        "itemIcon": "T_IconResourceHemp",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/HerbDryingRack.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "HerbHanger",
+    "name": "Herb Hanger",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Hemp",
+        "itemName": "Hemp",
+        "itemIcon": "T_IconResourceHemp",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/HerbHanger.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "HerbalistWorkstation",
+    "name": "Herbalist's Workstation",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "AdvancedDecorations",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 1
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "Hemp",
+        "itemName": "Hemp",
+        "itemIcon": "T_IconResourceHemp",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/HerbalistWorkstation.json",
+    "unlockName": "Advanced Decorations"
+  },
+  {
+    "id": "House",
+    "name": "House",
+    "icon": "T_BuildingsVillageHouse",
+    "category": "TownBuildingGeneral",
+    "description": "A step up from a tent. Each house can hold 4 people.",
+    "unlockId": "TownHouse",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 4
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 15
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/House.json",
+    "unlockName": "TownHouse"
+  },
+  {
+    "id": "HousingTent",
+    "name": "Housing Tent",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "This tent will provide shelter for your settlers. Can only accommodate 2 people, so build enough for everyone that might need it.",
+    "unlockId": "HousingTent",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 9
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 6
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/HousingTent.json",
+    "unlockName": "HousingTent"
+  },
+  {
+    "id": "HuntersCamp",
+    "name": "Hunters Camp",
+    "icon": null,
+    "category": "TownBuildingAnimalHandling",
+    "description": "Assign your workers to hunt animals and provide you with meat, hide, and other resources.",
+    "unlockId": "HuntersCamp",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 8
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 12
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 18
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 22
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/HuntersCamp.json",
+    "unlockName": "HuntersCamp"
+  },
+  {
+    "id": "HuntersLodge",
+    "name": "Hunter's Lodge",
+    "icon": "T_BuildingsHuntersHut",
+    "category": "TownBuildingAnimalHandling",
+    "description": "Allows for hide drying, trap management, and supports several hunters working at the same time.",
+    "unlockId": "HuntersLodge",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 24
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 6
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 6
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 12
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 40
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/HuntersLodge.json",
+    "unlockName": "HuntersLodge"
+  },
+  {
+    "id": "Inn",
+    "name": "Inn",
+    "icon": "T_BuildingsInn",
+    "category": "TownBuildingCooking",
+    "description": "Allows more settlers to cook more delicious dishes, which significantly boost their attribute and morale.",
+    "unlockId": "Inn",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 32
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 10
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 20
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 45
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 25
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Inn.json",
+    "unlockName": "Inn"
+  },
+  {
+    "id": "KranekShrine",
+    "name": "Kranek Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Kranek, the harbinger of death, claims the souls of the deceased, carrying them to the afterlife.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "KranekShrine",
+        "itemName": "Kranek Shrine",
+        "itemIcon": "T_KranekShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/KranekShrine.json",
+    "unlockName": null
+  },
+  {
+    "id": "LargeLogStack",
+    "name": "Large Log Stack",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "LargeLogStack",
+        "itemName": "Large Log Stack",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/LargeLogStack.json",
+    "unlockName": null
+  },
+  {
+    "id": "LaundryHanger",
+    "name": "Laundry Hanger",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Laundry Hanger.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "LaundryHanger",
+        "itemName": "Laundry Hanger",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/LaundryHanger.json",
+    "unlockName": null
+  },
+  {
+    "id": "LeatherWorking",
+    "name": "Tanning Rack",
+    "icon": "T_Leatherworking",
+    "category": "TownBuildingCrafting",
+    "description": "Treats animal hides and furs to produce materials for crafting advanced equipment and items.",
+    "unlockId": "TannersHut",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 4
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 4
+      }
+    ],
+    "experienceReward": null,
+    "sourceFile": "Placeables/TownBuilding/LeatherWorking.json",
+    "unlockName": "Tanner's Hut"
+  },
+  {
+    "id": "Library",
+    "name": "Library",
+    "icon": "T_Library",
+    "category": "TownBuildingStorage",
+    "description": "A dedicated space to store books and provide a place for villagers to study and improve their skills.",
+    "unlockId": "Library",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 22
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Library.json",
+    "unlockName": "Library"
+  },
+  {
+    "id": "LivestockBarn",
+    "name": "Livestock Barn",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Fenced in area for breeding animals that provide valuble resources.",
+    "unlockId": "LivestockBarn",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 6
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/LivestockBarn.json",
+    "unlockName": "LivestockBarn"
+  },
+  {
+    "id": "LogCuttingStation",
+    "name": "Log Cutting Station",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "SimpleAxe",
+        "itemName": "Simple Axe",
+        "itemIcon": "T_WeaponIconsAxe_01",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/LogCuttingStation.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "LogSplittingPlace",
+    "name": "Log Splitting Place",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "AdvancedDecorations",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "SimpleAxe",
+        "itemName": "Simple Axe",
+        "itemIcon": "T_WeaponIconsAxe_01",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/LogSplittingPlace.json",
+    "unlockName": "Advanced Decorations"
+  },
+  {
+    "id": "LoggingCamp",
+    "name": "Logging Camp",
+    "icon": null,
+    "category": "TownBuildingHarvesting",
+    "description": "One worker can use this to cut down trees in a small area. Best to place near a dense forest.",
+    "unlockId": "LoggingCamp",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 32,
+    "sourceFile": "Placeables/TownBuilding/LoggingCamp.json",
+    "unlockName": "Logging Camp"
+  },
+  {
+    "id": "Lumberjack",
+    "name": "Lumberjack",
+    "icon": "T_BuildingsLumberjack",
+    "category": "TownBuildingHarvesting",
+    "description": "Expands storage space, allows more workers to be assigned to it, and lets them cut down trees within an increased radius.",
+    "unlockId": "Lumberjack",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 15
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 9
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 25
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 6
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Lumberjack.json",
+    "unlockName": "Lumberjack"
+  },
+  {
+    "id": "LumberjackSpot",
+    "name": "Lumberjack Spot",
+    "icon": "T_LumberjackSpot",
+    "category": "TownBuildingCrafting",
+    "description": "Allows one worker to chop logs into wood.",
+    "unlockId": "LoggingCamp",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/LumberjackSpot.json",
+    "unlockName": "Logging Camp"
+  },
+  {
+    "id": "Lumbermill",
+    "name": "Lumbermill",
+    "icon": "T_Lumbermill",
+    "category": "TownBuildingHarvesting",
+    "description": "Allows for more assigned workers, the efficient production of planks from various types of wood, a larger storage capacity, and the ability to harvest resources from a wider radius.",
+    "unlockId": "Lumbermill",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 38
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 32
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 26
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 16
+      },
+      {
+        "itemId": "Mosses",
+        "itemName": "Mosses",
+        "itemIcon": "T_IconResourceMosses",
+        "quantity": 33
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Lumbermill.json",
+    "unlockName": "Lumbermill"
+  },
+  {
+    "id": "Mangonel",
+    "name": "Mangonel",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "FOR TRAILER",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Unobtainable",
+        "itemName": "Unobtainable",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/SiegeWeapons/Mangonel.json",
+    "unlockName": null
+  },
+  {
+    "id": "MiningCamp",
+    "name": "Mining Camp",
+    "icon": null,
+    "category": "TownBuildingHarvesting",
+    "description": "One worker can use this to mine metal ores and stones in a small area, as well as process larger rocks into smaller chunks. For the best results, place near a metal vein.",
+    "unlockId": "MiningCamp",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 14
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 10
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 32,
+    "sourceFile": "Placeables/TownBuilding/MiningCamp.json",
+    "unlockName": "Mining Camp & Pickaxe"
+  },
+  {
+    "id": "MiningHut",
+    "name": "Mining Hut",
+    "icon": "T_MiningHut_Placeholder",
+    "category": "TownBuildingHarvesting",
+    "description": "Allows both Iron Ore and Granite to be mined, more workers to be assigned to it, has a larger storage space, and mines within an increased radius.",
+    "unlockId": "MiningHut",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 10
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 20
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 22
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 12
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 15
+      }
+    ],
+    "experienceReward": 32,
+    "sourceFile": "Placeables/TownBuilding/MiningHut.json",
+    "unlockName": "Mining Hut"
+  },
+  {
+    "id": "MixingBucket",
+    "name": "Mixing Bucket",
+    "icon": "T_BuildingsMixingBucket",
+    "category": "TownBuildingCrafting",
+    "description": "This structure is used for mixing various things to produce cob, animal feed, fishing bait and fertilizer.",
+    "unlockId": "MixingBucket",
+    "inputs": [
+      {
+        "itemId": "Mud",
+        "itemName": "Mud",
+        "itemIcon": "T_IconResourceMud",
+        "quantity": 10
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 3
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/MixingBucket.json",
+    "unlockName": "MixingBucket"
+  },
+  {
+    "id": "MorvathisShrine",
+    "name": "Morvathis Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Morvathis, represents the primordial void and the deepest, most unfathomable aspects of existence. As a fundamental force of creation and destruction, Morvathis embodies the concept of endless potential and the unknown. This deity is associated with the depths of the earth and the mysteries of death, but also with the emergence of new life and order from seeming nothingness. Morvathis is often depicted as an ever-changing, formless entity, reflecting the unpredictable nature of the cosmos.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "MorvathisShrine",
+        "itemName": "Morvathis Shrine",
+        "itemIcon": "T_MorvathisShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/MorvathisShrine.json",
+    "unlockName": null
+  },
+  {
+    "id": "MudCollector",
+    "name": "Mud Collector",
+    "icon": null,
+    "category": "TownBuildingHarvesting",
+    "description": "Used for collecting mud with a shovel.",
+    "unlockId": "MudCollector",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 11
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 32,
+    "sourceFile": "Placeables/TownBuilding/MudCollector.json",
+    "unlockName": "Mud Collector & Shovel"
+  },
+  {
+    "id": "OpenBarrel",
+    "name": "Open Barrel",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Open Barrel.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "OpenBarrel",
+        "itemName": "Open Barrel",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/OpenBarrel.json",
+    "unlockName": null
+  },
+  {
+    "id": "OrganizedTimberStack",
+    "name": "Organized Timber Stack",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "OrganizedTimberStack",
+        "itemName": "Organized Timber Stack",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/OrganizedTimberStack.json",
+    "unlockName": null
+  },
+  {
+    "id": "Outhouse",
+    "name": "Outhouse",
+    "icon": "T_Outhouse",
+    "category": "TownBuildingGeneral",
+    "description": "A place where you can get rid of items that aren't needed anymore.",
+    "unlockId": "Outhouse",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Outhouse.json",
+    "unlockName": "Outhouse"
+  },
+  {
+    "id": "Outpost",
+    "name": "Outpost",
+    "icon": "T_BuildingsOutpost",
+    "category": "TownBuildingGeneral",
+    "description": "Allows to establish an outpost.",
+    "unlockId": "Outpost",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 8
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 4
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "Linen",
+        "itemName": "Linen",
+        "itemIcon": "T_FiberCloth_D",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Outpost.json",
+    "unlockName": "Outpost"
+  },
+  {
+    "id": "Palisade",
+    "name": "Palisade",
+    "icon": "T_BuildingsPalisade",
+    "category": "TownBuildingDefense",
+    "description": "More advanced protection of your settlement.",
+    "unlockId": "Palisade",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Palisade.json",
+    "unlockName": "Palisade"
+  },
+  {
+    "id": "PalisadeGate",
+    "name": "Palisade Gate",
+    "icon": "T_PalisadeGates",
+    "category": "TownBuildingDefense",
+    "description": "A simple wooden gate.",
+    "unlockId": "Palisade",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 6
+      },
+      {
+        "itemId": "CopperIngot",
+        "itemName": "Copper Ingot",
+        "itemIcon": "T_CopperIngot",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PalisadeGate.json",
+    "unlockName": "Palisade"
+  },
+  {
+    "id": "PalisadeTower",
+    "name": "Palisade Tower",
+    "icon": "T_BuildingsWatchtower",
+    "category": "TownBuildingDefense",
+    "description": "A palisade tower designed with elevated platforms to provide archers with superior visibility and optimal firing angles against approaching threats.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "SteelIngot",
+        "itemName": "Steel Ingot",
+        "itemIcon": "T_IconResourceIronBlock",
+        "quantity": 5
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 20
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 15
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PalisadeTower.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "PalisadeTower_Var3",
+    "name": "Palisade Tower with Stairs",
+    "icon": "T_BuildingsWatchtower",
+    "category": "TownBuildingDefense",
+    "description": "A palisade tower designed with elevated platforms to provide archers with superior visibility and optimal firing angles against approaching threats.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "SteelIngot",
+        "itemName": "Steel Ingot",
+        "itemIcon": "T_IconResourceIronBlock",
+        "quantity": 5
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 20
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 15
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PalisadeTower_Var3.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "Pillory",
+    "name": "Pillory",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Pillory.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Pillory",
+        "itemName": "Pillory",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Pillory.json",
+    "unlockName": null
+  },
+  {
+    "id": "Pit",
+    "name": "Pit",
+    "icon": "T_BuildinggPit",
+    "category": "TownBuildingHarvesting",
+    "description": "Your workers can operate both at depots above ground and underground, with underground depots depleting resources more slowly. Requires placement near mineable nodes.",
+    "unlockId": "Pit",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 35
+      },
+      {
+        "itemId": "Granite",
+        "itemName": "Granite",
+        "itemIcon": "T_Granite",
+        "quantity": 40
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 18
+      },
+      {
+        "itemId": "SteelIngot",
+        "itemName": "Steel Ingot",
+        "itemIcon": "T_IconResourceIronBlock",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Pit.json",
+    "unlockName": "Pit"
+  },
+  {
+    "id": "PitBench",
+    "name": "Pit Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Pit Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "PitBench",
+        "itemName": "Pit Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/PitBench.json",
+    "unlockName": null
+  },
+  {
+    "id": "PitSaw",
+    "name": "Pit Saw",
+    "icon": "T_PitSaw",
+    "category": "TownBuildingCrafting",
+    "description": "Produces planks out of logs.",
+    "unlockId": "PitSaw",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 6
+      },
+      {
+        "itemId": "TinIngot",
+        "itemName": "Tin Ingot",
+        "itemIcon": "T_IconResourceSteelBar",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PitSaw.json",
+    "unlockName": "PitSaw"
+  },
+  {
+    "id": "PlayerCabin",
+    "name": "Cabin",
+    "icon": "T_BuildingsPlayerCabin",
+    "category": "TownBuildingGeneral",
+    "description": "Nicer version of your personal house.",
+    "unlockId": "PlayerCabin",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 12
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 12
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PlayerCabin.json",
+    "unlockName": "PlayerCabin"
+  },
+  {
+    "id": "PlayerLodge",
+    "name": "Lodge",
+    "icon": "T_BuildingLodge",
+    "category": "TownBuildingGeneral",
+    "description": "This lodge will provide a place to sleep along with interiors and a small garden.",
+    "unlockId": "PlayerLodge",
+    "inputs": [
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 7
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 15
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PlayerLodge.json",
+    "unlockName": "Lodge"
+  },
+  {
+    "id": "PlayerShack",
+    "name": "Personal Shack",
+    "icon": "T_BuildingsPlayerShack",
+    "category": "TownBuildingGeneral",
+    "description": "This shack will provide a personal place to sleep for you along with a private chest.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 6
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/PlayerShack.json",
+    "unlockName": null
+  },
+  {
+    "id": "RabbitTrap",
+    "name": "Trap",
+    "icon": null,
+    "category": "TownBuildingStorage",
+    "description": "Primitive trap for small animals like rabbits. Could break and has limited uses.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "RabbitTrapItem",
+        "itemName": "Small trap",
+        "itemIcon": "T_RabbitTrap",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Traps/RabbitTrap.json",
+    "unlockName": null
+  },
+  {
+    "id": "ReinforcedLog",
+    "name": "Reinforced Log",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Reinforced Log.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ReinforcedLog",
+        "itemName": "Reinforced Log",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/ReinforcedLog.json",
+    "unlockName": null
+  },
+  {
+    "id": "ResearchDesk",
+    "name": "Research Desk",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "One worker can use it to research new buildings and craftables.",
+    "unlockId": "ResearchDesk",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/ResearchDesk.json",
+    "unlockName": "Research Desk"
+  },
+  {
+    "id": "RiverDock",
+    "name": "River Dock",
+    "icon": "T_RiverDock",
+    "category": "Roads",
+    "description": "Allows you to sail with Companions and bring your animals on board. You can't fast travel, when you are in combat. Travel at your own risk if there's foes nearby.",
+    "unlockId": "RiverDock",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 12
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 15
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/RiverDock.json",
+    "unlockName": "River Dock"
+  },
+  {
+    "id": "Scarecrow",
+    "name": "Scarecrow",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Scarecrow.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Scarecrow",
+        "itemName": "Scarecrow",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Scarecrow.json",
+    "unlockName": null
+  },
+  {
+    "id": "ScarecrowWithHat",
+    "name": "Scarecrow With Hat",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Scarecrow with hat.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "ScarecrowWithHat",
+        "itemName": "Scarecrow With Hat",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/ScarecrowWithHat.json",
+    "unlockName": null
+  },
+  {
+    "id": "SharedChest",
+    "name": "Camp Chest",
+    "icon": null,
+    "category": "TownBuildingStorage",
+    "description": "Small, shared storage where workers bring produced resources, food and other gear.",
+    "unlockId": "ResearchDesk",
+    "inputs": [
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 3
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 6
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SharedChest.json",
+    "unlockName": "Research Desk"
+  },
+  {
+    "id": "SilverBroadfinTrophy",
+    "name": "Speckled Spotfin Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Speckled Spotfin trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SilverBroadfinTrophy",
+        "itemName": "Speckled Spotfin Trophy",
+        "itemIcon": "T_SilverBroadfinTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SilverBroadfinTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "SimpleBucket",
+    "name": "Simple Bucket",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Simple Bucket.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SimpleBucket",
+        "itemName": "Simple Bucket",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SimpleBucket.json",
+    "unlockName": null
+  },
+  {
+    "id": "SimpleLaundryHanger",
+    "name": "Simple Laundry Hanger",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Simple Laundry Hanger.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SimpleLaundryHanger",
+        "itemName": "Simple Laundry Hanger",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SimpleLaundryHanger.json",
+    "unlockName": null
+  },
+  {
+    "id": "SimpleWorkbench",
+    "name": "Simple Workbench",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Allows you and your settlers to craft all the armors, tools, weapons and refined materials which will be critical for the success of your settlement.",
+    "unlockId": "SimpleWorkbench",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 5
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 3
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SimpleWorkbench.json",
+    "unlockName": "SimpleWorkbench"
+  },
+  {
+    "id": "SingleLantern",
+    "name": "Single Lantern",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Decorative Single Lantern.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SingleLantern",
+        "itemName": "Single Lantern",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SingleLantern.json",
+    "unlockName": null
+  },
+  {
+    "id": "SleepingBag",
+    "name": "Sleeping Bag",
+    "icon": "T_StandingTorch",
+    "category": "TownBuildingStorage",
+    "description": "A simple bed to get through the night",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SleepingBag",
+        "itemName": "Sleeping Bag",
+        "itemIcon": "T_MissingIcon",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Personal/SleepingBag.json",
+    "unlockName": null
+  },
+  {
+    "id": "SmallBasket",
+    "name": "Small Basket",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Small Basket.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SmallBasket",
+        "itemName": "Small Basket",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SmallBasket.json",
+    "unlockName": null
+  },
+  {
+    "id": "SmallClosedBasket",
+    "name": "Small Closed Basket",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Small Closed Basket.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SmallClosedBasket",
+        "itemName": "Small Closed Basket",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SmallClosedBasket.json",
+    "unlockName": null
+  },
+  {
+    "id": "SmallFirewoodPile",
+    "name": "Small Firewood Pile",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SmallFirewoodPile",
+        "itemName": "Small Firewood Pile",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SmallFirewoodPile.json",
+    "unlockName": null
+  },
+  {
+    "id": "SmallTradePost",
+    "name": "Market",
+    "icon": "T_Tradepost",
+    "category": "Roads",
+    "description": "Allows trading with caravans and vendors from neutral settlements without sending your own.",
+    "unlockId": "SmallTradePost",
+    "inputs": [
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 4
+      },
+      {
+        "itemId": "Cotton",
+        "itemName": "Cotton",
+        "itemIcon": "T_CottonBall_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SmallTradePost.json",
+    "unlockName": "SmallTradePost"
+  },
+  {
+    "id": "Smelter",
+    "name": "Smelter",
+    "icon": "T_BuildingsSmelter",
+    "category": "TownBuildingCrafting",
+    "description": "Used for smelting steel, iron, bronze, copper and tin ingots. Requires charcoal as fuel.",
+    "unlockId": "Smelter",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 29
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 14
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 8
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 24
+      },
+      {
+        "itemId": "Granite",
+        "itemName": "Granite",
+        "itemIcon": "T_Granite",
+        "quantity": 22
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Smelter.json",
+    "unlockName": "Smelter"
+  },
+  {
+    "id": "SmeltingFurnace",
+    "name": "Furnace",
+    "icon": "T_SmeltingFurnace",
+    "category": "TownBuildingCrafting",
+    "description": "Used for smelting iron, bronze, copper and tin ingots. Requires peat as fuel.",
+    "unlockId": "SmeltingFurnace",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 15
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 18
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SmeltingFurnace.json",
+    "unlockName": "SmeltingFurnace"
+  },
+  {
+    "id": "SmokingRack",
+    "name": "Smoking Rack campfire",
+    "icon": null,
+    "category": "TownBuildingCooking",
+    "description": "Use this to cook more food than a typical campfire, as well as dry meat, and fish with the smoking rack. Requires wood to maintain the fire.",
+    "unlockId": "SmokingRackCampfire",
+    "inputs": [
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "TinIngot",
+        "itemName": "Tin Ingot",
+        "itemIcon": "T_IconResourceSteelBar",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SmokingRack.json",
+    "unlockName": "SmokingRackCampfire"
+  },
+  {
+    "id": "SnowpetalBunch",
+    "name": "Snowpetal Bunch",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SnowpetalBunch",
+        "itemName": "Snowpetal Bunch",
+        "itemIcon": "T_SnowpetalBunch",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SnowpetalBunch.json",
+    "unlockName": null
+  },
+  {
+    "id": "SpottedGluttonfishTrophy",
+    "name": "Spotted Gluttonfish Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Spotted Gluttonfish trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SpottedGluttonfishTrophy",
+        "itemName": "Gluttonfish Trophy",
+        "itemIcon": "T_SpeckledSpotfinTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/SpottedGluttonfishTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "StagTrophy",
+    "name": "Stag Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Stag trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "StagTrophyItem",
+        "itemName": "Stag Trophy",
+        "itemIcon": "T_DeerTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/StagTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "StagingGround",
+    "name": "Staging Ground",
+    "icon": "T_StagingGround",
+    "category": "TownBuildingDefense",
+    "description": "A place for Companions to stock up on gear and food, with options to choose predefined or create custom Gear Presets and manage Food diet for your settlers.",
+    "unlockId": "StagingGround",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 4
+      },
+      {
+        "itemId": "Linen",
+        "itemName": "Linen",
+        "itemIcon": "T_FiberCloth_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/StagingGround.json",
+    "unlockName": "StagingGround"
+  },
+  {
+    "id": "Stairs",
+    "name": "Stairs with Battlements",
+    "icon": "T_StairsPalisade",
+    "category": "TownBuildingDefense",
+    "description": "A stairway offering protected access to elevated positions.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 6
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Stairs.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "StairsOnly",
+    "name": "Stairs",
+    "icon": "T_Stair",
+    "category": "TownBuildingDefense",
+    "description": "A simple wooden stairway providing access to higher ground.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/StairsOnly.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "StairsSideways",
+    "name": "Stairs",
+    "icon": "T_Stair",
+    "category": "TownBuildingDefense",
+    "description": "A simple wooden stairway providing access to higher ground.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/StairsSideways.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "StairsSideways_L",
+    "name": "Stairs",
+    "icon": "T_Stair",
+    "category": "TownBuildingDefense",
+    "description": "A simple wooden stairway providing access to higher ground.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/StairsSideways_L.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "StandingTorch",
+    "name": "Standing Torch",
+    "icon": null,
+    "category": "TownBuildingStorage",
+    "description": "Simple standing torch",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "StandingTorchItem",
+        "itemName": "Standing Torch",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Torches/StandingTorch.json",
+    "unlockName": null
+  },
+  {
+    "id": "Stockpile",
+    "name": "Stockpile",
+    "icon": "T_BuildingWarehouseTent",
+    "category": "TownBuildingStorage",
+    "description": "The main shared storage where workers bring produced resources, food and other gear.",
+    "unlockId": "Stockpile",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Stockpile.json",
+    "unlockName": "Stockpile"
+  },
+  {
+    "id": "StoneRoad",
+    "name": "Stone Road",
+    "icon": null,
+    "category": "Roads",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "Coins",
+        "itemName": "Coins",
+        "itemIcon": "T_Coins_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Roads/StoneRoad.json",
+    "unlockName": null
+  },
+  {
+    "id": "StoneTomb",
+    "name": "Stone Tomb",
+    "icon": null,
+    "category": "Decorations",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "StoneTomb",
+        "itemName": "Stone Tomb",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/StoneTomb.json",
+    "unlockName": null
+  },
+  {
+    "id": "StonemasonsHut",
+    "name": "Stonemason's Hut",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Stonemason turns all possible minerals in crude form into fine, shaped blocks, ready to be used in various constructions.",
+    "unlockId": "StonemasonsHut",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 11
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 5
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 4
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/StonemasonsHut.json",
+    "unlockName": "StonemasonsHut"
+  },
+  {
+    "id": "StudyCorner",
+    "name": "Study Corner",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "AdvancedDecorations",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 3
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/StudyCorner.json",
+    "unlockName": "Advanced Decorations"
+  },
+  {
+    "id": "SturdyBench",
+    "name": "Sturdy Bench",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Decorative Sturdy Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyBench",
+        "itemName": "Sturdy Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SturdyBench.json",
+    "unlockName": null
+  },
+  {
+    "id": "SturdyChair",
+    "name": "Sturdy Chair",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Chair.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyChair",
+        "itemName": "Sturdy Chair",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SturdyChair.json",
+    "unlockName": null
+  },
+  {
+    "id": "SturdyLittleBench",
+    "name": "Sturdy Little Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Little Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyLittleBench",
+        "itemName": "Sturdy Little Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SturdyLittleBench.json",
+    "unlockName": null
+  },
+  {
+    "id": "SturdyStool",
+    "name": "Sturdy Stool",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Stool.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyStool",
+        "itemName": "Sturdy Stool",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SturdyStool.json",
+    "unlockName": null
+  },
+  {
+    "id": "SunflowerPatch",
+    "name": "Sunflower Patch",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SunflowerPatch",
+        "itemName": "Sunflower Patch",
+        "itemIcon": "T_SunflowerPatch",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SunflowerPatch.json",
+    "unlockName": null
+  },
+  {
+    "id": "SunleafCluster",
+    "name": "Sunleaf Cluster",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SunleafCluster",
+        "itemName": "Sunleaf Cluster",
+        "itemIcon": "SunleafClusterDecoration",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/SunleafCluster.json",
+    "unlockName": null
+  },
+  {
+    "id": "TannersHouse",
+    "name": "Tanner's House",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Refines animal resources.",
+    "unlockId": "TannersHouse",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 8
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 5
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 6
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TannersHouse.json",
+    "unlockName": "TannersHouse"
+  },
+  {
+    "id": "TannersHut",
+    "name": "Tanner's Hut",
+    "icon": "T_BuildingsTannersHut",
+    "category": "TownBuildingCrafting",
+    "description": "Used to produce high quality armors and gear out of leather.",
+    "unlockId": "TannersHut",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 6
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 14
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 15
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 30
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TannersHut.json",
+    "unlockName": "Tanner's Hut"
+  },
+  {
+    "id": "Tavern",
+    "name": "Tavern",
+    "icon": "T_BuildingsTavern",
+    "category": "TownBuildingCooking",
+    "description": "Settlers can cook and eat food here, which boosts their morale.",
+    "unlockId": "Tavern",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 8
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 18
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 15
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 45
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 12
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Tavern.json",
+    "unlockName": "Tavern"
+  },
+  {
+    "id": "Test1",
+    "name": "Sturdy Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyBench",
+        "itemName": "Sturdy Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Test1.json",
+    "unlockName": null
+  },
+  {
+    "id": "Test2",
+    "name": "Sturdy Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyBench",
+        "itemName": "Sturdy Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Test2.json",
+    "unlockName": null
+  },
+  {
+    "id": "Test3",
+    "name": "Sturdy Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyBench",
+        "itemName": "Sturdy Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Test3.json",
+    "unlockName": null
+  },
+  {
+    "id": "Test4",
+    "name": "Sturdy Bench",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Sturdy Bench.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SturdyBench",
+        "itemName": "Sturdy Bench",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Test4.json",
+    "unlockName": null
+  },
+  {
+    "id": "TestArmorChest1",
+    "name": "Test Armor Chest",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Shared storage container with shelves that increase storage capacity.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Containers/Chests/TestArmorChest1.json",
+    "unlockName": null
+  },
+  {
+    "id": "TestCaravanStation",
+    "name": "Small Caravan Station",
+    "icon": "T_CartStation",
+    "category": "Roads",
+    "description": "Allows sending caravans to deliver goods between your settlements as well as to trade with neutral villages.",
+    "unlockId": "SmallCaravanStation",
+    "inputs": [
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 6
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 6
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TestCaravanStation.json",
+    "unlockName": "Small Caravan Station & Cart"
+  },
+  {
+    "id": "TestDecorationsChest1",
+    "name": "Test Decorations Chest",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Shared storage container with shelves that increase storage capacity.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Containers/Chests/TestDecorationsChest1.json",
+    "unlockName": null
+  },
+  {
+    "id": "TestResourceChest1",
+    "name": "Test Weapon Chest",
+    "icon": "T_BuildinggBarn",
+    "category": "TownBuildingGeneral",
+    "description": "Shared storage container with shelves that increase storage capacity.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Containers/Chests/TestResourceChest1.json",
+    "unlockName": null
+  },
+  {
+    "id": "TestResourceChest2",
+    "name": "Test Weapon Chest",
+    "icon": "T_BuildinggBarn",
+    "category": "TownBuildingGeneral",
+    "description": "Shared storage container with shelves that increase storage capacity.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Containers/Chests/TestResourceChest2.json",
+    "unlockName": null
+  },
+  {
+    "id": "TestWeaponChest1",
+    "name": "Test Weapon Chest",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Shared storage container with shelves that increase storage capacity.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Containers/Chests/TestWeaponChest1.json",
+    "unlockName": null
+  },
+  {
+    "id": "Thresher",
+    "name": "Thresher",
+    "icon": "T_Thresher",
+    "category": "TownBuildingCrafting",
+    "description": "A work area where villagers process harvested wheat by threshing, separating edible grain from the straw.",
+    "unlockId": "Thresher",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "TinIngot",
+        "itemName": "Tin Ingot",
+        "itemIcon": "T_IconResourceSteelBar",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Thresher.json",
+    "unlockName": "Thresher"
+  },
+  {
+    "id": "Toolmaker",
+    "name": "Toolmaker",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "A workshop where various gear and refined items can be crafted.",
+    "unlockId": "Toolmaker",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 12
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 22
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Toolmaker.json",
+    "unlockName": "Toolmaker"
+  },
+  {
+    "id": "TownHall",
+    "name": "Town Hall",
+    "icon": "T_BuildingsTownHall_T2",
+    "category": "TownBuildingGeneral",
+    "description": "The central hub of any village. Unlocks more advanced buildings, and makes you a higher threat to other factions.",
+    "unlockId": "TownHall",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 180
+      },
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 50
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 25
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 65
+      },
+      {
+        "itemId": "RawHide",
+        "itemName": "Raw Hide",
+        "itemIcon": "T_IconResourceRawHide",
+        "quantity": 23
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TownHall.json",
+    "unlockName": "TownHall"
+  },
+  {
+    "id": "TownHouse2",
+    "name": "Town House T2",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Increases Town Capacity by 6 Population by allowing villagers to live in your town. Requires food supply to keep villagers alive.",
+    "unlockId": "TownHouse2",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 60
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 40
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 30
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TownHouse2.json",
+    "unlockName": "TownHouse2"
+  },
+  {
+    "id": "TrainingGround",
+    "name": "Training Ground",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": "Used as a space where fighters can train and improve their combat skills through sparring or shooting at targets.",
+    "unlockId": "TrainingGround",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 10
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 13
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 6
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 11
+      },
+      {
+        "itemId": "IronIngot",
+        "itemName": "Iron Ingot",
+        "itemIcon": "T_IronIngot",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TrainingGround.json",
+    "unlockName": "Training Ground"
+  },
+  {
+    "id": "TrapperCamp",
+    "name": "Trappers Camp",
+    "icon": "T_TrapperCamp",
+    "category": "TownBuildingAnimalHandling",
+    "description": "A worker will collect the yields from placed animal traps and re-set them automatically as long as they're available in stock.",
+    "unlockId": "TrapperCamp",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 8
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 16
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 11
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/TrapperCamp.json",
+    "unlockName": "TrapperCamp"
+  },
+  {
+    "id": "Trebuchet",
+    "name": "Trebuchet",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "FOR TRAILER",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Unobtainable",
+        "itemName": "Unobtainable",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/SiegeWeapons/Trebuchet.json",
+    "unlockName": null
+  },
+  {
+    "id": "TwineboundLantern",
+    "name": "Twinebound Lantern",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Decorative Twinebound Lantern.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "TwineboundLantern",
+        "itemName": "Twinebound Lantern",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/TwineboundLantern.json",
+    "unlockName": null
+  },
+  {
+    "id": "VM_ArcheryRange",
+    "name": "Village Archery Range",
+    "icon": "T_ArcheryRange",
+    "category": "VillageImprovements",
+    "description": "Trains and equips additional ranged militia for village defense.",
+    "unlockId": "VM_ArcheryRange",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 21
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 7
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_ArcheryRange.json",
+    "unlockName": "VM_ArcheryRange"
+  },
+  {
+    "id": "VM_Belltower",
+    "name": "Village Belltower",
+    "icon": "T_Belltower",
+    "category": "VillageImprovements",
+    "description": "Boosts neutral village trust and allows initiation of a rebellion by ringing the bell.",
+    "unlockId": "VM_Belltower",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 7
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_Belltower.json",
+    "unlockName": "VM_Belltower"
+  },
+  {
+    "id": "VM_BigDrinkStand",
+    "name": "Village Big Drinking Stand",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "A central stand where villagers gather to refresh, fostering community bonds and increasing trust.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 14
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 7
+      },
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_BigDrinkStand.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_CattlePens",
+    "name": "Village Cattle Pens",
+    "icon": "T_Stables",
+    "category": "VillageImprovements",
+    "description": "Increases prosperity by providing livestock for food and village sustainability. If the village has an Animal Merchant, it also enhances the quality of animals available for purchase, improving their attributes and overall value.",
+    "unlockId": "VM_Stables",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 25
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_CattlePens.json",
+    "unlockName": "Village stables"
+  },
+  {
+    "id": "VM_DrinkStand",
+    "name": "Village Drinking Stand",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "Give more charm to the village and earn trust of locals.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_DrinkStand.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_FishingPier",
+    "name": "Village Fishing Pier",
+    "icon": "T_FishingPier",
+    "category": "VillageImprovements",
+    "description": "One of the Village Improvements that can be built in neutral villages. Increases trust with the village, and villagers can fish.",
+    "unlockId": "VM_FishingPier",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 5
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_FishingPier.json",
+    "unlockName": "VM_FishingPier"
+  },
+  {
+    "id": "VM_FoodSortingBench",
+    "name": "Village Food Sorting Bench",
+    "icon": "T_VMFoodSortingBench",
+    "category": "VillageImprovements",
+    "description": "A shared space for sorting and displaying food, promoting abundance and building trust among villagers.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_FoodSortingBench.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_GameTable",
+    "name": "Village Game Table",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "Give more charm to the village and earn trust of locals.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 4
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_GameTable.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_Granary",
+    "name": "Village Granary",
+    "icon": "T_VMGranary",
+    "category": "VillageImprovements",
+    "description": "Enhances prosperity by providing grain storage for villagers’ crops.",
+    "unlockId": "VM_Granary",
+    "inputs": [
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 11
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_Granary.json",
+    "unlockName": "VM_Granary"
+  },
+  {
+    "id": "VM_HerbDryingRack",
+    "name": "Village Herb Drying Rack",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "A drying rack for herbs, supporting remedy preparation and increasing trust through shared well-being.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 9
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_HerbDryingRack.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_HerbGarden",
+    "name": "Village Herb Garden",
+    "icon": "T_HerbGarden",
+    "category": "VillageImprovements",
+    "description": "Increases prosperity, allowing villagers to grow herbs.",
+    "unlockId": "VM_HerbGarden",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 20
+      },
+      {
+        "itemId": "Flax",
+        "itemName": "Flax",
+        "itemIcon": "T_IconResourceFlax_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "Mud",
+        "itemName": "Mud",
+        "itemIcon": "T_IconResourceMud",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_HerbGarden.json",
+    "unlockName": "VM_HerbGarden"
+  },
+  {
+    "id": "VM_HerbHanger",
+    "name": "Village Herb Hanger",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "Give more charm to the village and earn trust of locals.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Hemp",
+        "itemName": "Hemp",
+        "itemIcon": "T_IconResourceHemp",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_HerbHanger.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_HerbalistWorkstation",
+    "name": "Village Herbalist's Workstation",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "An organized station for the herbalist’s craft, enhancing health practices and strengthening village trust.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 3
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 2
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_HerbalistWorkstation.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_LaudryPlace",
+    "name": "Village Laundry Place",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "A communal place for laundry, encouraging cleanliness and reinforcing trust within the community.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 5
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      },
+      {
+        "itemId": "Linen",
+        "itemName": "Linen",
+        "itemIcon": "T_FiberCloth_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_LaudryPlace.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_LogCuttingStation",
+    "name": "Village Log Cutting Station",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "Give more charm to the village and earn trust of locals.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "BronzeIngot",
+        "itemName": "Bronze Ingot",
+        "itemIcon": "T_BronzeIngot",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_LogCuttingStation.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_LogSplittingPlace",
+    "name": "Village Woodcutter's Station",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "A designated area for splitting wood, supporting self-reliance and boosting trust.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_LogSplittingPlace.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_MilitiaRoom",
+    "name": "Village Barracks",
+    "icon": "T_MilitiaRoom",
+    "category": "VillageImprovements",
+    "description": "Trains and deploys additional heavy infantry militia for village protection.",
+    "unlockId": "VM_MilitiaHouse",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "CottonBolt",
+        "itemName": "Cotton Bolt",
+        "itemIcon": "T_CottonBolt_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 10
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 8
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 7
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_MilitiaRoom.json",
+    "unlockName": "VM_MilitiaHouse"
+  },
+  {
+    "id": "VM_PalisadeGates",
+    "name": "Village Pallisade Wall",
+    "icon": "T_PalisadeGates",
+    "category": "VillageImprovements",
+    "description": "One of the Village Improvements that can be built in neutral villages. Increases trust with the village and provides village with defences against raiders.",
+    "unlockId": "VM_PalisadeGate",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 20
+      },
+      {
+        "itemId": "BronzeIngot",
+        "itemName": "Bronze Ingot",
+        "itemIcon": "T_BronzeIngot",
+        "quantity": 10
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_PalisadeGates.json",
+    "unlockName": "Village Palisade Gates"
+  },
+  {
+    "id": "VM_PalisadeWalls",
+    "name": "Village Pallisade Wall",
+    "icon": "T_BuildingsPalisade",
+    "category": "VillageImprovements",
+    "description": "One of the Village Improvements that can be built in neutral villages. Increases trust with the village and provides village with defences against raiders.",
+    "unlockId": "VM_PalisadeWall",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 2
+      },
+      {
+        "itemId": "BronzeIngot",
+        "itemName": "Bronze Ingot",
+        "itemIcon": "T_BronzeIngot",
+        "quantity": 1
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_PalisadeWalls.json",
+    "unlockName": "Village Palisade Walls"
+  },
+  {
+    "id": "VM_ScoutsLookout",
+    "name": "Village Scout's Lookout",
+    "icon": "T_VMScoutsLookout",
+    "category": "VillageImprovements",
+    "description": "Reveals fog of war in the region under neutral village control.",
+    "unlockId": "VM_ScoutsLookout",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 3
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 10
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 5
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 14
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 4
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_ScoutsLookout.json",
+    "unlockName": "VM_ScoutsLookout"
+  },
+  {
+    "id": "VM_Shrine",
+    "name": "Village Shrine",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "Creates a sacred spot for respects, fostering unity and deepening village trust.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 20
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_Shrine.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_TrainingGrounds",
+    "name": "Village Training Grounds",
+    "icon": "T_TrainingGrounds",
+    "category": "VillageImprovements",
+    "description": "Recruits and trains extra light infantry militia for village defense.",
+    "unlockId": "VM_TrainingGround",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 24
+      },
+      {
+        "itemId": "Cotton",
+        "itemName": "Cotton",
+        "itemIcon": "T_CottonBall_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_TrainingGrounds.json",
+    "unlockName": "VM_TrainingGround"
+  },
+  {
+    "id": "VM_Vault",
+    "name": "Village Vault",
+    "icon": "T_Vault",
+    "category": "VillageImprovements",
+    "description": "Increases village prosperity and provides storage for villagers' goods.",
+    "unlockId": "VM_Vault",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 12
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 10
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_Vault.json",
+    "unlockName": "VM_Vault"
+  },
+  {
+    "id": "VM_VillageGatheringSpot",
+    "name": "Village Community Game Table",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "A lively spot where villagers gather to play cards and games, fostering friendships and building trust.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 2
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 5
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 4
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VillageDecorations/VM_VillageGatheringSpot.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_VillageHouse",
+    "name": "Village House",
+    "icon": "T_BuildingsVillageHouse",
+    "category": "VillageImprovements",
+    "description": "Offers two housing slots to attract new settlers to the neutral village.",
+    "unlockId": "VM_VillageHouse",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 5
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 4
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 3
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 3
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "Straw",
+        "itemName": "Straw",
+        "itemIcon": "T_IconResourceStraw_D",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_VillageHouse.json",
+    "unlockName": "VM_VillageHouse"
+  },
+  {
+    "id": "VM_VillageLantern",
+    "name": "Village Lantern",
+    "icon": null,
+    "category": "VillageImprovements",
+    "description": "Adds light to village paths, enhancing safety and building trust among villagers.",
+    "unlockId": "VM_Decorations",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 12
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 2
+      },
+      {
+        "itemId": "BronzeIngot",
+        "itemName": "Bronze Ingot",
+        "itemIcon": "T_BronzeIngot",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_VillageLantern.json",
+    "unlockName": "Village Improvements"
+  },
+  {
+    "id": "VM_Watchtower",
+    "name": "Village Watchtower",
+    "icon": "T_BuildingsGuardPost_1",
+    "category": "VillageImprovements",
+    "description": "One of the Village Improvements that can be built in neutral villages. Increases trust with the village and allows to spot Brigand parties.",
+    "unlockId": "VM_Watchtower",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 25
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_Watchtower.json",
+    "unlockName": "VM_Watchtower"
+  },
+  {
+    "id": "VM_Well",
+    "name": "Village Well",
+    "icon": "T_BuildingsWell",
+    "category": "VillageImprovements",
+    "description": "Improves prosperity, providing villagers with essential access to fresh water.",
+    "unlockId": "VM_Well",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 5
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      },
+      {
+        "itemId": "BronzeIngot",
+        "itemName": "Bronze Ingot",
+        "itemIcon": "T_BronzeIngot",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/VillageImprovements/VM_Well.json",
+    "unlockName": "VM_Well"
+  },
+  {
+    "id": "Vase",
+    "name": "Vase",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Vase.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "Vase",
+        "itemName": "Vase",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/Vase.json",
+    "unlockName": null
+  },
+  {
+    "id": "VeylnorShrine",
+    "name": "Veylnor Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Veylnor, is a deity shrouded in darkness and mystery, embodying the depths of night and the unseen forces that govern fate. This primordial god exists in the shadows, influencing events from behind a veil of obscurity. Veylnor's presence is felt in moments of uncertainty and introspection, guiding those who dare to seek truth in darkness. Legends speak of his ability to weave destinies, granting insight or confusion to those who invoke his name. He accepts offerings from mortals with a promise of protection or revelation, reminding them that not all paths are illuminated.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "VeylnorShrine",
+        "itemName": "Veylnor Shrine",
+        "itemIcon": "VeylnorShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/VeylnorShrine.json",
+    "unlockName": null
+  },
+  {
+    "id": "VillageGatheringSpot",
+    "name": "Village Gathering Spot",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "AdvancedDecorations",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 1
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 2
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/VillageGatheringSpot.json",
+    "unlockName": "Advanced Decorations"
+  },
+  {
+    "id": "VillageHall",
+    "name": "Village Hall",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "The central hub of any village and your first big milestone that unlocks more advanced buildings, as well as making you a higher threat to other factions.",
+    "unlockId": "VillageHall",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 15
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 15
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 30
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 90
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 80
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 20
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/VillageHall.json",
+    "unlockName": "VillageHall"
+  },
+  {
+    "id": "Wall",
+    "name": "Wall",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 1
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Wall.json",
+    "unlockName": null
+  },
+  {
+    "id": "WallB",
+    "name": "Wall",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 1
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WallB.json",
+    "unlockName": null
+  },
+  {
+    "id": "WallC",
+    "name": "Wall",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": null,
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 1
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WallC.json",
+    "unlockName": null
+  },
+  {
+    "id": "WallD",
+    "name": "Wall",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": null,
+    "unlockId": "Palisade",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WallD.json",
+    "unlockName": "Palisade"
+  },
+  {
+    "id": "WallE",
+    "name": "Wall",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": null,
+    "unlockId": "Palisade",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WallE.json",
+    "unlockName": "Palisade"
+  },
+  {
+    "id": "WallF",
+    "name": "Wall",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": null,
+    "unlockId": "Palisade",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WallF.json",
+    "unlockName": "Palisade"
+  },
+  {
+    "id": "Warehouse",
+    "name": "Warehouse",
+    "icon": "T_BuildinggWarehouse",
+    "category": "TownBuildingStorage",
+    "description": "Shared storage building with greatly increased capacity that serves as your settlement’s central resource hub.",
+    "unlockId": "Warehouse",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 32
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 8
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 18
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 12
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Warehouse.json",
+    "unlockName": "Warehouse"
+  },
+  {
+    "id": "Watchtower",
+    "name": "Watchtower",
+    "icon": null,
+    "category": "TownBuildingDefense",
+    "description": "Used to monitor the strength of an incoming raid.",
+    "unlockId": "Watchtower",
+    "inputs": [
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 16
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 9
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 22
+      },
+      {
+        "itemId": "Canvas",
+        "itemName": "Canvas",
+        "itemIcon": "T_Canvas",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Watchtower.json",
+    "unlockName": "Watchtower"
+  },
+  {
+    "id": "WaterCollector",
+    "name": "Water Collector",
+    "icon": "T_BuildingWaterCollector",
+    "category": "TownBuildingWaterGathering",
+    "description": "Used for gathering and storing rain water.",
+    "unlockId": "WaterCollector",
+    "inputs": [
+      {
+        "itemId": "Mud",
+        "itemName": "Mud",
+        "itemIcon": "T_IconResourceMud",
+        "quantity": 10
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 3
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WaterCollector.json",
+    "unlockName": "Water Collector"
+  },
+  {
+    "id": "WaterMill",
+    "name": "Water Mill",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Used for producing flour from grain with the power of running water.",
+    "unlockId": "WaterMill",
+    "inputs": [
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 50
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 40
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 20
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WaterMill.json",
+    "unlockName": "WaterMill"
+  },
+  {
+    "id": "WaterStation",
+    "name": "Water Station",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Add charm to your village with a variety of decorative structures, enhancing its beauty and creating a unique atmosphere.",
+    "unlockId": "BasicDecorations",
+    "inputs": [
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 4
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 4
+      },
+      {
+        "itemId": "Water",
+        "itemName": "Water",
+        "itemIcon": "T_IconResourceWater_D",
+        "quantity": 2
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/WaterStation.json",
+    "unlockName": "Basic Decorations"
+  },
+  {
+    "id": "WeaponRack",
+    "name": "Weapon Rack",
+    "icon": null,
+    "category": "TownBuildingStorage",
+    "description": "Serves as storage for weapons, where with a Staging Ground, your Companions can also arm themselves on command.",
+    "unlockId": "WeaponRack",
+    "inputs": [
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 3
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WeaponRack.json",
+    "unlockName": "WeaponRack"
+  },
+  {
+    "id": "WeaverHut",
+    "name": "Weaver Hut",
+    "icon": "T_BuildingsWeaverHut",
+    "category": "TownBuildingCrafting",
+    "description": "Used to refine raw textile materials into better quality fabrics and produce advanced clothing and armors.",
+    "unlockId": "WeaverHut",
+    "inputs": [
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 6
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 8
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 10
+      },
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 18
+      },
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 8
+      },
+      {
+        "itemId": "CopperNails",
+        "itemName": "Copper Nails",
+        "itemIcon": "T_IconResourceNails",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WeaverHut.json",
+    "unlockName": "WeaverHut"
+  },
+  {
+    "id": "WeaverLoom",
+    "name": "Weaver Loom",
+    "icon": null,
+    "category": "TownBuildingCrafting",
+    "description": "Used for crafting simple textiles and gear.",
+    "unlockId": "WeaverLoom",
+    "inputs": [
+      {
+        "itemId": "Wood",
+        "itemName": "Wood",
+        "itemIcon": "T_IconResourceBrunches",
+        "quantity": 10
+      },
+      {
+        "itemId": "RiverReed",
+        "itemName": "River Reed",
+        "itemIcon": "T_Cattail_D",
+        "quantity": 13
+      },
+      {
+        "itemId": "CrudeStone",
+        "itemName": "Crude Stone",
+        "itemIcon": "T_IconResourceCrudeStone_D",
+        "quantity": 8
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WeaverLoom.json",
+    "unlockName": "WeaverLoom"
+  },
+  {
+    "id": "Well",
+    "name": "Well",
+    "icon": "T_BuildingsWell",
+    "category": "TownBuildingWaterGathering",
+    "description": "Allows settlers to gather fresh water whenever it's needed for the settlement.",
+    "unlockId": "Well",
+    "inputs": [
+      {
+        "itemId": "WoodenPlank",
+        "itemName": "Wooden Plank",
+        "itemIcon": "T_WoodenPlank_D",
+        "quantity": 15
+      },
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 7
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 10
+      },
+      {
+        "itemId": "BronzeIngot",
+        "itemName": "Bronze Ingot",
+        "itemIcon": "T_BronzeIngot",
+        "quantity": 5
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Well.json",
+    "unlockName": "Well"
+  },
+  {
+    "id": "Windmill",
+    "name": "Windmill",
+    "icon": "T_Windmill",
+    "category": "Farming",
+    "description": "Used for producing flour from grain with the power of the wind.",
+    "unlockId": "Windmill",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 22
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 20
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 28
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 29
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 28
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Windmill.json",
+    "unlockName": "Windmill"
+  },
+  {
+    "id": "WolfTrophy",
+    "name": "Wolf Trophy",
+    "icon": null,
+    "category": "TownBuildingGeneral",
+    "description": "Wolf trophy provides renown for placing in your settlement",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "WolfTrophyItem",
+        "itemName": "Wolf Trophy",
+        "itemIcon": "T_WolfTrophy",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/WolfTrophy.json",
+    "unlockName": null
+  },
+  {
+    "id": "WoodenArchLantern",
+    "name": "Wooden Arch Lantern",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Decorative Wooden Arch Lantern.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "WoodenArchLantern",
+        "itemName": "Wooden Arch Lantern",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/WoodenArchLantern.json",
+    "unlockName": null
+  },
+  {
+    "id": "WoodenChair",
+    "name": "Wooden Chair",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Wooden Chair.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "WoodenChair",
+        "itemName": "Wooden Chair",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/WoodenChair.json",
+    "unlockName": null
+  },
+  {
+    "id": "WoodenPrimitiveWalls",
+    "name": "Palisade Wall",
+    "icon": "T_BuildingsPalisade",
+    "category": "TownBuildingDefense",
+    "description": "A wall made of tightly spaced logs.",
+    "unlockId": "Palisade",
+    "inputs": [
+      {
+        "itemId": "Rope",
+        "itemName": "Rope",
+        "itemIcon": "T_Rope_D1",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Walls/WoodenPrimitiveWalls.json",
+    "unlockName": "Palisade"
+  },
+  {
+    "id": "WoodenStool",
+    "name": "Wooden Stool",
+    "icon": null,
+    "category": "Decorations",
+    "description": "Decorative Wooden Stool.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "WoodenStool",
+        "itemName": "Wooden Stool",
+        "itemIcon": null,
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/WoodenStool.json",
+    "unlockName": null
+  },
+  {
+    "id": "WoodenWalls",
+    "name": "Palisade Wall with Battlements",
+    "icon": "PalisadeWallWithBattlements",
+    "category": "TownBuildingDefense",
+    "description": "Palisade wall with improved defensive positions.",
+    "unlockId": "PalisadeBattlements",
+    "inputs": [
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 1
+      },
+      {
+        "itemId": "SoftLog",
+        "itemName": "Log",
+        "itemIcon": "T_IconResourceSoftLog",
+        "quantity": 1
+      },
+      {
+        "itemId": "CuredRope",
+        "itemName": "Cured Rope",
+        "itemIcon": "T_CuredRope",
+        "quantity": 1
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Walls/WoodenWalls.json",
+    "unlockName": "Palisade Wall with Battlements"
+  },
+  {
+    "id": "Workshop",
+    "name": "Workshop",
+    "icon": "T_BuildingsWorkshop",
+    "category": "TownBuildingCrafting",
+    "description": "Used for producing better tools, gear, and ammunition.",
+    "unlockId": "Workshop",
+    "inputs": [
+      {
+        "itemId": "Cob",
+        "itemName": "Cob",
+        "itemIcon": "T_IconResourceCobb",
+        "quantity": 36
+      },
+      {
+        "itemId": "HardPlank",
+        "itemName": "Hardwood Plank",
+        "itemIcon": "wood",
+        "quantity": 38
+      },
+      {
+        "itemId": "HardWood",
+        "itemName": "Hardwood Log",
+        "itemIcon": "T_IconResourceSoftWood_D",
+        "quantity": 21
+      },
+      {
+        "itemId": "Thatch",
+        "itemName": "Thatch",
+        "itemIcon": "T_IconResourceThatch_D",
+        "quantity": 32
+      },
+      {
+        "itemId": "Granite",
+        "itemName": "Granite",
+        "itemIcon": "T_Granite",
+        "quantity": 25
+      },
+      {
+        "itemId": "Nails",
+        "itemName": "Iron Nails",
+        "itemIcon": "T_IconResourceIronNails",
+        "quantity": 12
+      },
+      {
+        "itemId": "Mosses",
+        "itemName": "Mosses",
+        "itemIcon": "T_IconResourceMosses",
+        "quantity": 18
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/TownBuilding/Workshop.json",
+    "unlockName": "Workshop"
+  },
+  {
+    "id": "YdrassaShrine",
+    "name": "Ydrassa Shrine",
+    "icon": "T_StructureType_Storage",
+    "category": "Decorations",
+    "description": "Ydrassa, goddess of water, personifies the power and mystery of water in all its forms. As a primordial sea deity, Ydrassa governs not only the oceans but also rivers, lakes, and the life-giving properties of water. This goddess is both nurturing and potentially destructive, capable of providing abundant harvests from the sea or unleashing devastating floods. Ydrassa is often associated with the cycles of tides, the depths of the oceans, and the creatures that dwell within. Legends speak of her ability to calm storms or create new landforms with the power of water.",
+    "unlockId": null,
+    "inputs": [
+      {
+        "itemId": "YdrassaShrine",
+        "itemName": "Ydrassa Shrine",
+        "itemIcon": "YdrassaShrine",
+        "quantity": 1
+      }
+    ],
+    "experienceReward": 0,
+    "sourceFile": "Placeables/Decorations/YdrassaShrine.json",
+    "unlockName": null
+  }
+]

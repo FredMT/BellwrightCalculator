@@ -1,0 +1,1482 @@
+{
+  "PoorCape_04": [
+    "PoorCape_04__BasicArmors__1"
+  ],
+  "RichCape_01": [
+    "RichCape_01__BasicArmors__2"
+  ],
+  "RichCape_02": [
+    "RichCape_02__BasicArmors__3"
+  ],
+  "RichCape_08": [
+    "RichCape_08__WeaverHut__4"
+  ],
+  "WinterCloak_1": [
+    "WinterCloak_1__BasicArmors__5"
+  ],
+  "WolfCape_02": [
+    "WolfCape_02__WeaverHut__6"
+  ],
+  "FellwalkersBoots": [
+    "FellwalkersBoots__BasicArmors__7"
+  ],
+  "NomadsBoots": [
+    "NomadsBoots__BasicArmors__8"
+  ],
+  "PathfindersHighBoots": [
+    "PathfindersHighBoots__BasicArmors__9"
+  ],
+  "RuggedBoots": [
+    "RuggedBoots__BasicArmors__10"
+  ],
+  "ScoutsBoots": [
+    "ScoutsBoots__BasicArmors__11"
+  ],
+  "TravelersShoes": [
+    "TravelersShoes__BasicClothing__12"
+  ],
+  "Handwraps": [
+    "Handwraps__BasicClothing__13"
+  ],
+  "RuggedMitts": [
+    "RuggedMitts__BasicArmors__14"
+  ],
+  "SturdyGloves": [
+    "SturdyGloves__BasicArmors__15"
+  ],
+  "ThickGloves": [
+    "ThickGloves__BasicArmors__16"
+  ],
+  "ArmoredCap": [
+    "ArmoredCap__BasicArmors__17"
+  ],
+  "FrontiersmansHelm": [
+    "FrontiersmansHelm__BasicArmors__18"
+  ],
+  "LeatherCoif": [
+    "LeatherCoif__BasicArmors__19"
+  ],
+  "OutridersHelmet": [
+    "OutridersHelmet__BasicArmors__20"
+  ],
+  "PathseekersHelm": [
+    "PathseekersHelm__BasicArmors__21"
+  ],
+  "RuggedCoif": [
+    "RuggedCoif__BasicArmors__22"
+  ],
+  "StrawHat": [
+    "StrawHat__BasicClothing__23"
+  ],
+  "ThickHood": [
+    "ThickHood__BasicArmors__24"
+  ],
+  "TravelersHood": [
+    "TravelersHood__BasicArmors__25"
+  ],
+  "RuggedTrousers": [
+    "RuggedTrousers__BasicArmors__26"
+  ],
+  "ThickBreeches": [
+    "ThickBreeches__BasicArmors__27"
+  ],
+  "TravelersTrousers": [
+    "TravelersTrousers__BasicClothing__28"
+  ],
+  "WanderersPants": [
+    "WanderersPants__BasicArmors__29"
+  ],
+  "AdventurersGarb": [
+    "AdventurersGarb__BasicArmors__30"
+  ],
+  "BasicGambeson": [
+    "BasicGambeson__BasicArmors__31"
+  ],
+  "RawhideJerkin": [
+    "RawhideJerkin__BasicArmors__32"
+  ],
+  "ReinforcedTunic": [
+    "ReinforcedTunic__BasicArmors__33"
+  ],
+  "RuggedShirt": [
+    "RuggedShirt__BasicArmors__34"
+  ],
+  "StrengthenShirt": [
+    "StrengthenShirt__BasicArmors__35"
+  ],
+  "StuddedShirt": [
+    "StuddedShirt__BasicArmors__36"
+  ],
+  "ThickJerkin": [
+    "ThickJerkin__BasicArmors__37"
+  ],
+  "ThickReinforcedJacket": [
+    "ThickReinforcedJacket__BasicArmors__38"
+  ],
+  "TravelersGarb": [
+    "TravelersGarb__BasicClothing__39"
+  ],
+  "BlackhideBoots": [
+    "BlackhideBoots__LeatherClothing__40"
+  ],
+  "FoldedLeatherBoots": [
+    "FoldedLeatherBoots__LeatherClothing__41"
+  ],
+  "LeatherBoots": [
+    "LeatherBoots__LeatherClothing__42"
+  ],
+  "LeatherCavalierBoots": [
+    "LeatherCavalierBoots__LeatherClothing__43"
+  ],
+  "RawhideShoes": [
+    "RawhideShoes__LeatherClothing__44"
+  ],
+  "ReinforcedHighBoots": [
+    "ReinforcedHighBoots__LeatherClothing__45"
+  ],
+  "ReinforcedLeatherShoes": [
+    "ReinforcedLeatherShoes__LeatherClothing__46"
+  ],
+  "SturdyShoes": [
+    "SturdyShoes__LeatherClothing__47"
+  ],
+  "ThickBoots": [
+    "ThickBoots__LeatherClothing__48"
+  ],
+  "BlackhideGloves": [
+    "BlackhideGloves__LeatherClothing__49"
+  ],
+  "LeatherGloves": [
+    "LeatherGloves__LeatherClothing__50"
+  ],
+  "PaddedGloves": [
+    "PaddedGloves__LeatherClothing__51"
+  ],
+  "RawhideGloves": [
+    "RawhideGloves__LeatherClothing__52"
+  ],
+  "ReinforcedBracers": [
+    "ReinforcedBracers__LeatherClothing__53"
+  ],
+  "StuddedBracers": [
+    "StuddedBracers__LeatherClothing__54"
+  ],
+  "FootmanHat": [
+    "FootmanHat__AdvancedHelmets__55"
+  ],
+  "KettleHat": [
+    "KettleHat__AdvancedHelmets__56"
+  ],
+  "NomadHelm": [
+    "NomadHelm__AdvancedHelmets__57"
+  ],
+  "StuddedHelm": [
+    "StuddedHelm__AdvancedHelmets__58"
+  ],
+  "BreechesWithKneepads": [
+    "BreechesWithKneepads__AdvancedArmors__59"
+  ],
+  "QuiltedTrousers": [
+    "QuiltedTrousers__AdvancedArmors__60"
+  ],
+  "QuiltedTrousersWithKneepads": [
+    "QuiltedTrousersWithKneepads__AdvancedArmors__61"
+  ],
+  "ReinforcedTrousers": [
+    "ReinforcedTrousers__AdvancedArmors__62"
+  ],
+  "RingedQuiltedTrousers": [
+    "RingedQuiltedTrousers__AdvancedArmors__63"
+  ],
+  "TrousersWithLeatherKneepads": [
+    "TrousersWithLeatherKneepads__LeatherClothing__64"
+  ],
+  "LeatherReinforcedPatchedGambeson": [
+    "LeatherReinforcedPatchedGambeson__AdvancedArmors__65"
+  ],
+  "LongInfantryGambeson": [
+    "LongInfantryGambeson__AdvancedArmors__66"
+  ],
+  "PatchedGambeson": [
+    "PatchedGambeson__AdvancedArmors__67"
+  ],
+  "QuiltedCuirassOverTunic": [
+    "QuiltedCuirassOverTunic__AdvancedArmors__68"
+  ],
+  "QuiltedVestOverGambeson": [
+    "QuiltedVestOverGambeson__AdvancedArmors__69"
+  ],
+  "ReinforcedLongGambeson": [
+    "ReinforcedLongGambeson__AdvancedArmors__70"
+  ],
+  "ReinforcedShortGambeson": [
+    "ReinforcedShortGambeson__AdvancedArmors__71"
+  ],
+  "RivetedHauberkOverGambeson": [
+    "RivetedHauberkOverGambeson__AdvancedArmors__72"
+  ],
+  "RoughGambeson": [
+    "RoughGambeson__AdvancedArmors__73"
+  ],
+  "ShortInfantryGambeson": [
+    "ShortInfantryGambeson__AdvancedArmors__74"
+  ],
+  "LeatherMailBoots": [
+    "LeatherMailBoots__Armourer__75"
+  ],
+  "MailReinforcedShoes": [
+    "MailReinforcedShoes__Armourer__76"
+  ],
+  "PlateBoots": [
+    "PlateBoots__Armourer__77"
+  ],
+  "PlateBootsWithKneepads": [
+    "PlateBootsWithKneepads__Armourer__78"
+  ],
+  "PlateReinforcedBoots": [
+    "PlateReinforcedBoots__Armourer__79"
+  ],
+  "StrappedLeatherBoots": [
+    "StrappedLeatherBoots__Armourer__80"
+  ],
+  "HeavyMittens": [
+    "HeavyMittens__Armourer__81"
+  ],
+  "LamellarPlateGauntlets": [
+    "LamellarPlateGauntlets__Armourer__82"
+  ],
+  "LeatherReinforcedGloves": [
+    "LeatherReinforcedGloves__Armourer__83"
+  ],
+  "PlateGauntlets": [
+    "PlateGauntlets__Armourer__84"
+  ],
+  "RivetedMailGloves": [
+    "RivetedMailGloves__Armourer__85"
+  ],
+  "StrappedReinforcedGloves": [
+    "StrappedReinforcedGloves__Armourer__86"
+  ],
+  "ClosedHelmet": [
+    "ClosedHelmet__Armourer__87"
+  ],
+  "CrusaderHelmet": [
+    "CrusaderHelmet__Armourer__88"
+  ],
+  "HeavyHelmet": [
+    "HeavyHelmet__Armourer__89"
+  ],
+  "InfantryHelmet": [
+    "InfantryHelmet__Armourer__90"
+  ],
+  "KnightHelmet": [
+    "KnightHelmet__Armourer__91"
+  ],
+  "PlateReinforcedGreaves": [
+    "PlateReinforcedGreaves__Armourer__92"
+  ],
+  "PlateReinforcedQuiltedTrousers": [
+    "PlateReinforcedQuiltedTrousers__Armourer__93"
+  ],
+  "QuiltedTrousersWithReinforcedKneepads": [
+    "QuiltedTrousersWithReinforcedKneepads__Armourer__94"
+  ],
+  "QuiltedTrousersWithReinforcedLegs": [
+    "QuiltedTrousersWithReinforcedLegs__Armourer__95"
+  ],
+  "ReinforcedKneepads": [
+    "ReinforcedKneepads__Armourer__96"
+  ],
+  "CrusaderHauberk": [
+    "CrusaderHauberk__Armourer__97"
+  ],
+  "GreatPlateArmour": [
+    "GreatPlateArmour__Armourer__98"
+  ],
+  "KnightPlateCuirass": [
+    "KnightPlateCuirass__Armourer__99"
+  ],
+  "LongChainmail": [
+    "LongChainmail__Armourer__100"
+  ],
+  "LongReinforcedChainmail": [
+    "LongReinforcedChainmail__Armourer__101"
+  ],
+  "MailHauberk": [
+    "MailHauberk__Armourer__102"
+  ],
+  "PlateCuirass": [
+    "PlateCuirass__Armourer__103"
+  ],
+  "PlateMailGambeson": [
+    "PlateMailGambeson__Armourer__104"
+  ],
+  "ReinforcedChainmail": [
+    "ReinforcedChainmail__Armourer__105"
+  ],
+  "PlayerCassianBoots_1": [
+    "PlayerCassianBoots_1__Armourer__106"
+  ],
+  "PlayerCassianGloves_1": [
+    "PlayerCassianGloves_1__Armourer__107"
+  ],
+  "PlayerCassianPants_1": [
+    "PlayerCassianPants_1__Armourer__108"
+  ],
+  "PlayerCassianTorso_1": [
+    "PlayerCassianTorso_1__Armourer__109"
+  ],
+  "PlayerHalmayansBoots_1": [
+    "PlayerHalmayansBoots_1__Armourer__110"
+  ],
+  "PlayerHalmayansGloves_1": [
+    "PlayerHalmayansGloves_1__Armourer__111"
+  ],
+  "PlayerHalmayansHelmet_01": [
+    "PlayerHalmayansHelmet_01__Armourer__112"
+  ],
+  "PlayerHalmayansPants_1": [
+    "PlayerHalmayansPants_1__Armourer__113"
+  ],
+  "PlayerHalmayansTorso_1": [
+    "PlayerHalmayansTorso_1__Armourer__114"
+  ],
+  "InnkeeperShoes": [
+    "InnkeeperShoes__AdvancedClothing__115"
+  ],
+  "TownsfolkShoes": [
+    "TownsfolkShoes__AdvancedClothing__116"
+  ],
+  "WoodsmanShoes": [
+    "WoodsmanShoes__AdvancedClothing__117"
+  ],
+  "BlacksmithHandwraps": [
+    "BlacksmithHandwraps__AdvancedClothing__118"
+  ],
+  "CivilianCap": [
+    "CivilianCap__AdvancedClothing__119"
+  ],
+  "EngineerHat": [
+    "EngineerHat__AdvancedClothing__120"
+  ],
+  "FarmerHat1": [
+    "FarmerHat1__AdvancedClothing__121"
+  ],
+  "FarmerHat2": [
+    "FarmerHat2__AdvancedClothing__122"
+  ],
+  "PeasantFemCap": [
+    "PeasantFemCap__AdvancedClothing__123"
+  ],
+  "TownsfolkCap": [
+    "TownsfolkCap__AdvancedClothing__124"
+  ],
+  "TownsfolkCoif": [
+    "TownsfolkCoif__AdvancedClothing__125"
+  ],
+  "WoodsmanCap": [
+    "WoodsmanCap__AdvancedClothing__126"
+  ],
+  "CarpenterTrousers": [
+    "CarpenterTrousers__AdvancedClothing__127"
+  ],
+  "CivilianTrousers": [
+    "CivilianTrousers__AdvancedClothing__128"
+  ],
+  "EngineerTrousers": [
+    "EngineerTrousers__AdvancedClothing__129"
+  ],
+  "HealerTrousers": [
+    "HealerTrousers__AdvancedClothing__130"
+  ],
+  "InnkeeperTrousers": [
+    "InnkeeperTrousers__AdvancedClothing__131"
+  ],
+  "LaborerTrousers": [
+    "LaborerTrousers__AdvancedClothing__132"
+  ],
+  "PeasantTrousers": [
+    "PeasantTrousers__AdvancedClothing__133"
+  ],
+  "TownsfolkTrousers": [
+    "TownsfolkTrousers__AdvancedClothing__134"
+  ],
+  "WeaverTrousers": [
+    "WeaverTrousers__AdvancedClothing__135"
+  ],
+  "WoodsmanTrousers": [
+    "WoodsmanTrousers__AdvancedClothing__136"
+  ],
+  "BlacksmithApron": [
+    "BlacksmithApron__AdvancedClothing__137"
+  ],
+  "BlacksmithShirt": [
+    "BlacksmithShirt__AdvancedClothing__138"
+  ],
+  "CarpenterApron": [
+    "CarpenterApron__AdvancedClothing__139"
+  ],
+  "CivilianTunic": [
+    "CivilianTunic__AdvancedClothing__140"
+  ],
+  "EngineerShirt": [
+    "EngineerShirt__AdvancedClothing__141"
+  ],
+  "HealerShirt": [
+    "HealerShirt__AdvancedClothing__142"
+  ],
+  "InnkeeperShirt": [
+    "InnkeeperShirt__AdvancedClothing__143"
+  ],
+  "LaborerFemaleShirt": [
+    "LaborerFemaleShirt__AdvancedClothing__144"
+  ],
+  "PeasantTunic_1": [
+    "PeasantTunic_1__AdvancedClothing__145"
+  ],
+  "TownsfolkDress_1": [
+    "TownsfolkDress_1__AdvancedClothing__146"
+  ],
+  "TownsfolkDress_2": [
+    "TownsfolkDress_2__AdvancedClothing__147"
+  ],
+  "TownsfolkDress_3": [
+    "TownsfolkDress_3__AdvancedClothing__148"
+  ],
+  "TownsfolkDress_4": [
+    "TownsfolkDress_4__AdvancedClothing__149"
+  ],
+  "TownsfolkDress_8": [
+    "TownsfolkDress_8__AdvancedClothing__150"
+  ],
+  "TownsfolkDress_9": [
+    "TownsfolkDress_9__AdvancedClothing__151"
+  ],
+  "TownsfolkTunic_1": [
+    "TownsfolkTunic_1__AdvancedClothing__152"
+  ],
+  "TownsfolkTunic_2": [
+    "TownsfolkTunic_2__AdvancedClothing__153"
+  ],
+  "TownsfolkTunic_3": [
+    "TownsfolkTunic_3__AdvancedClothing__154"
+  ],
+  "TownsfolkTunic_4": [
+    "TownsfolkTunic_4__AdvancedClothing__155"
+  ],
+  "TownsfolkTunic_5": [
+    "TownsfolkTunic_5__AdvancedClothing__156"
+  ],
+  "TownsfolkTunic_6": [
+    "TownsfolkTunic_6__AdvancedClothing__157"
+  ],
+  "WeaverShirt": [
+    "WeaverShirt__AdvancedClothing__158"
+  ],
+  "WoodsmanShirt": [
+    "WoodsmanShirt__AdvancedClothing__159"
+  ],
+  "WoodsmanVest": [
+    "WoodsmanVest__AdvancedClothing__160"
+  ],
+  "Bag": [
+    "Bag__BasicClothing__161"
+  ],
+  "BasicArrowQuiver": [
+    "BasicArrowQuiver__BasicGear__162",
+    "BasicArrowQuiver__WeaverHut__163"
+  ],
+  "BasicBoltQuiver": [
+    "BasicBoltQuiver__WeaverHut__164",
+    "BasicBoltQuiver__AdvancedGear__165"
+  ],
+  "FoodBag": [
+    "FoodBag__AdvancedClothing__166"
+  ],
+  "LogSling": [
+    "LogSling__AdvancedClothing__167"
+  ],
+  "SeedPouch": [
+    "SeedPouch__BasicClothing__168"
+  ],
+  "SmallBackpack": [
+    "SmallBackpack__TannersHut__169"
+  ],
+  "WateringPot": [
+    "WateringPot__AdvancedTools__170"
+  ],
+  "CarpentersHammer": [
+    "CarpentersHammer__BasicTools__171",
+    "CarpentersHammer__TestRepairBench__172"
+  ],
+  "Hoe": [
+    "Hoe__BasicTools__173",
+    "Hoe__TestRepairBench__174"
+  ],
+  "Shovel": [
+    "Shovel__BasicTools__175",
+    "Shovel__TestRepairBench__176"
+  ],
+  "SimpleAxe": [
+    "SimpleAxe__StumpCrafting__177",
+    "SimpleAxe__BasicTools__178"
+  ],
+  "SimplePickaxe": [
+    "SimplePickaxe__BasicTools__179",
+    "SimplePickaxe__TestRepairBench__180"
+  ],
+  "Torch": [
+    "Torch__BasicGear__181",
+    "Torch__StumpCrafting__182"
+  ],
+  "FishingRod": [
+    "FishingRod__BasicTools__183"
+  ],
+  "IronHammer": [
+    "IronHammer__AdvancedTools__184",
+    "IronHammer__TestRepairBench__185"
+  ],
+  "RuggedAxe": [
+    "RuggedAxe__AdvancedTools__186",
+    "RuggedAxe__TestRepairBench__187"
+  ],
+  "SturdyPickaxe": [
+    "SturdyPickaxe__AdvancedTools__188",
+    "SturdyPickaxe__TestRepairBench__189"
+  ],
+  "BattleCrossbow": [
+    "BattleCrossbow__Workshop__190",
+    "BattleCrossbow__TestRepairBench__191"
+  ],
+  "Crossbow": [
+    "Crossbow__AdvancedGear__192",
+    "Crossbow__TestRepairBench__193"
+  ],
+  "IronBolt": [
+    "IronBolt__Workshop__194"
+  ],
+  "WoodenBolt": [
+    "WoodenBolt__AdvancedGear__195"
+  ],
+  "BattleAxe": [
+    "BattleAxe__BasicWeapons__196",
+    "BattleAxe__TestRepairBench__197"
+  ],
+  "ElmShortbow": [
+    "ElmShortbow__BasicGear__198"
+  ],
+  "Falchion": [
+    "Falchion__BasicWeapons__199",
+    "Falchion__TestRepairBench__200"
+  ],
+  "Mace": [
+    "Mace__BasicWeapons__201",
+    "Mace__TestRepairBench__202"
+  ],
+  "Messer": [
+    "Messer__BasicWeapons__203",
+    "Messer__TestRepairBench__204"
+  ],
+  "Pitchfork": [
+    "Pitchfork__BasicWeapons__205",
+    "Pitchfork__TestRepairBench__206"
+  ],
+  "PlankShield": [
+    "PlankShield__BasicGear__207",
+    "PlankShield__TestRepairBench__208"
+  ],
+  "PrimitiveClub": [
+    "PrimitiveClub__StumpCrafting__209",
+    "PrimitiveClub__BasicWeapons__210"
+  ],
+  "ReinforcedClub": [
+    "ReinforcedClub__BasicWeapons__211",
+    "ReinforcedClub__TestRepairBench__212"
+  ],
+  "Rondel": [
+    "Rondel__BasicWeapons__213",
+    "Rondel__TestRepairBench__214"
+  ],
+  "Sax": [
+    "Sax__BasicWeapons__215",
+    "Sax__TestRepairBench__216"
+  ],
+  "ShortSword": [
+    "ShortSword__BasicWeapons__217",
+    "ShortSword__TestRepairBench__218"
+  ],
+  "SimpleArrow": [
+    "SimpleArrow__BasicGear__219"
+  ],
+  "Spear_Ranseur": [
+    "Spear_Ranseur__Blacksmith__220",
+    "Spear_Ranseur__TestRepairBench__221"
+  ],
+  "Spear_Short": [
+    "Spear_Short__AdvancedWeapons__222",
+    "Spear_Short__TestRepairBench__223"
+  ],
+  "Spear_Wooden": [
+    "Spear_Wooden__BasicWeapons__224",
+    "Spear_Wooden__TestRepairBench__225"
+  ],
+  "Warhammer": [
+    "Warhammer__BasicWeapons__226",
+    "Warhammer__TestRepairBench__227"
+  ],
+  "WoodcuttersAxe": [
+    "WoodcuttersAxe__BasicWeapons__228",
+    "WoodcuttersAxe__TestRepairBench__229"
+  ],
+  "ArmingSword": [
+    "ArmingSword__AdvancedWeapons__230",
+    "ArmingSword__TestRepairBench__231"
+  ],
+  "BastardSword": [
+    "BastardSword__AdvancedWeapons__232",
+    "BastardSword__TestRepairBench__233"
+  ],
+  "Broadsword": [
+    "Broadsword__AdvancedWeapons__234",
+    "Broadsword__TestRepairBench__235"
+  ],
+  "BronzeArrows": [
+    "BronzeArrows__AdvancedGear__236"
+  ],
+  "FineAxe": [
+    "FineAxe__AdvancedWeapons__237",
+    "FineAxe__TestRepairBench__238"
+  ],
+  "HeavyBattleaxe": [
+    "HeavyBattleaxe__AdvancedWeapons__239",
+    "HeavyBattleaxe__TestRepairBench__240"
+  ],
+  "LongSharpBeardedAxe": [
+    "LongSharpBeardedAxe__AdvancedWeapons__241",
+    "LongSharpBeardedAxe__TestRepairBench__242"
+  ],
+  "LongSword": [
+    "LongSword__AdvancedWeapons__243",
+    "LongSword__TestRepairBench__244"
+  ],
+  "MorningStar": [
+    "MorningStar__AdvancedWeapons__245",
+    "MorningStar__TestRepairBench__246"
+  ],
+  "NorseSword": [
+    "NorseSword__AdvancedWeapons__247",
+    "NorseSword__TestRepairBench__248"
+  ],
+  "RoundShield": [
+    "RoundShield__AdvancedGear__249",
+    "RoundShield__TestRepairBench__250"
+  ],
+  "SledgeHammer": [
+    "SledgeHammer__AdvancedWeapons__251",
+    "SledgeHammer__TestRepairBench__252"
+  ],
+  "SturdyFalchion": [
+    "SturdyFalchion__AdvancedWeapons__253",
+    "SturdyFalchion__TestRepairBench__254"
+  ],
+  "SturdyWarhammer": [
+    "SturdyWarhammer__AdvancedWeapons__255",
+    "SturdyWarhammer__TestRepairBench__256"
+  ],
+  "WarAxe": [
+    "WarAxe__AdvancedWeapons__257",
+    "WarAxe__TestRepairBench__258"
+  ],
+  "Warpick": [
+    "Warpick__AdvancedWeapons__259",
+    "Warpick__TestRepairBench__260"
+  ],
+  "YewShortbow": [
+    "YewShortbow__AdvancedGear__261",
+    "YewShortbow__TestRepairBench__262"
+  ],
+  "AshShortbow": [
+    "AshShortbow__Workshop__263",
+    "AshShortbow__TestRepairBench__264"
+  ],
+  "BucklerShield": [
+    "BucklerShield__Blacksmith__265",
+    "BucklerShield__TestRepairBench__266"
+  ],
+  "Claymore": [
+    "Claymore__Blacksmith__267",
+    "Claymore__TestRepairBench__268"
+  ],
+  "Double-headedWarhammer": [
+    "Double-headedWarhammer__Blacksmith__269",
+    "Double-headedWarhammer__TestRepairBench__270"
+  ],
+  "FineArmingSword": [
+    "FineArmingSword__Blacksmith__271",
+    "FineArmingSword__TestRepairBench__272"
+  ],
+  "FineBastardsword": [
+    "FineBastardsword__Blacksmith__273",
+    "FineBastardsword__TestRepairBench__274"
+  ],
+  "FineLongsword": [
+    "FineLongsword__Blacksmith__275",
+    "FineLongsword__TestRepairBench__276"
+  ],
+  "FlangedMace": [
+    "FlangedMace__Blacksmith__277",
+    "FlangedMace__TestRepairBench__278"
+  ],
+  "Greataxe": [
+    "Greataxe__Blacksmith__279",
+    "Greataxe__TestRepairBench__280"
+  ],
+  "Greatsword": [
+    "Greatsword__Blacksmith__281",
+    "Greatsword__TestRepairBench__282"
+  ],
+  "HeaterShield": [
+    "HeaterShield__Workshop__283",
+    "HeaterShield__TestRepairBench__284"
+  ],
+  "HeavyBludgeon": [
+    "HeavyBludgeon__Blacksmith__285",
+    "HeavyBludgeon__TestRepairBench__286"
+  ],
+  "HeavyMaul": [
+    "HeavyMaul__Blacksmith__287",
+    "HeavyMaul__TestRepairBench__288"
+  ],
+  "IronArrow": [
+    "IronArrow__Workshop__289"
+  ],
+  "KiteShield": [
+    "KiteShield__Workshop__290",
+    "KiteShield__TestRepairBench__291"
+  ],
+  "Large-HeadedAxe": [
+    "Large-HeadedAxe__Blacksmith__292",
+    "Large-HeadedAxe__TestRepairBench__293"
+  ],
+  "LightCutlass": [
+    "LightCutlass__Blacksmith__294",
+    "LightCutlass__TestRepairBench__295"
+  ],
+  "Longbow": [
+    "Longbow__Workshop__296",
+    "Longbow__TestRepairBench__297"
+  ],
+  "NomadSabre": [
+    "NomadSabre__Blacksmith__298",
+    "NomadSabre__TestRepairBench__299"
+  ],
+  "ReinforcedWaraxe": [
+    "ReinforcedWaraxe__Blacksmith__300",
+    "ReinforcedWaraxe__TestRepairBench__301"
+  ],
+  "RoyalDagger": [
+    "RoyalDagger__Blacksmith__302",
+    "RoyalDagger__TestRepairBench__303"
+  ],
+  "ShashkaSabre": [
+    "ShashkaSabre__Blacksmith__304",
+    "ShashkaSabre__TestRepairBench__305"
+  ],
+  "SilverguardCutlass": [
+    "SilverguardCutlass__Blacksmith__306",
+    "SilverguardCutlass__TestRepairBench__307"
+  ],
+  "SneakyDagger": [
+    "SneakyDagger__Blacksmith__308",
+    "SneakyDagger__TestRepairBench__309"
+  ],
+  "SpikedMace": [
+    "SpikedMace__Blacksmith__310",
+    "SpikedMace__TestRepairBench__311"
+  ],
+  "SturdySabre": [
+    "SturdySabre__Blacksmith__312",
+    "SturdySabre__TestRepairBench__313"
+  ],
+  "SturdyWaraxe": [
+    "SturdyWaraxe__Blacksmith__314",
+    "SturdyWaraxe__TestRepairBench__315"
+  ],
+  "WingedMace": [
+    "WingedMace__Blacksmith__316",
+    "WingedMace__TestRepairBench__317"
+  ],
+  "Cassian_Crossbow": [
+    "Cassian_Crossbow__Workshop__318",
+    "Cassian_Crossbow__TestRepairBench__319"
+  ],
+  "Cassian_GildedCutlass": [
+    "Cassian_GildedCutlass__Blacksmith__320",
+    "Cassian_GildedCutlass__TestRepairBench__321"
+  ],
+  "Cassian_NavySabre": [
+    "Cassian_NavySabre__Blacksmith__322",
+    "Cassian_NavySabre__TestRepairBench__323"
+  ],
+  "Halmayan_LongSpear": [
+    "Halmayan_LongSpear__Blacksmith__324",
+    "Halmayan_LongSpear__TestRepairBench__325"
+  ],
+  "Halmayan_Shield": [
+    "Halmayan_Shield__Workshop__326",
+    "Halmayan_Shield__TestRepairBench__327"
+  ],
+  "Halmayan_ShortSpear": [
+    "Halmayan_ShortSpear__Blacksmith__328",
+    "Halmayan_ShortSpear__TestRepairBench__329"
+  ],
+  "BaseFish": [
+    "BaseFish__ButcheryBench__330",
+    "BaseFish__ButcheryBench__331",
+    "BaseFish__ButcheryBench__332",
+    "BaseFish__ButcheryBench__333",
+    "BaseFish__ButcheryBench__334",
+    "BaseFish__ButcheryBench__335",
+    "BaseFish__ButcheryBench__336",
+    "BaseFish__ButcheryBench__337",
+    "BaseFish__ButcheryBench__338",
+    "BaseFish__ButcheryBench__339",
+    "BaseFish__ButcheryBench__340",
+    "BaseFish__ButcheryBench__341",
+    "BaseFish__ButcheryBench__342",
+    "BaseFish__ButcheryBench__343",
+    "BaseFish__ButcheryBench__344"
+  ],
+  "Bandage": [
+    "Bandage__BasicGear__345"
+  ],
+  "MedicinalSalve": [
+    "MedicinalSalve__Workshop__346"
+  ],
+  "SingleLantern": [
+    "SingleLantern__CraftsmansNook__347"
+  ],
+  "TwineboundLantern": [
+    "TwineboundLantern__CraftsmansNook__348"
+  ],
+  "WoodenArchLantern": [
+    "WoodenArchLantern__CraftsmansNook__349"
+  ],
+  "Basket": [
+    "Basket__CraftsmansNook__350"
+  ],
+  "BucketWithMetalHandle": [
+    "BucketWithMetalHandle__CraftsmansNook__351"
+  ],
+  "ClosedBarrel": [
+    "ClosedBarrel__CraftsmansNook__352"
+  ],
+  "ClosedBasket": [
+    "ClosedBasket__CraftsmansNook__353"
+  ],
+  "Gallow": [
+    "Gallow__CraftsmansNook__354"
+  ],
+  "LaundryHanger": [
+    "LaundryHanger__CraftsmansNook__355"
+  ],
+  "OpenBarrel": [
+    "OpenBarrel__CraftsmansNook__356"
+  ],
+  "Pillory": [
+    "Pillory__CraftsmansNook__357"
+  ],
+  "Scarecrow": [
+    "Scarecrow__CraftsmansNook__358"
+  ],
+  "ScarecrowWithHat": [
+    "ScarecrowWithHat__CraftsmansNook__359"
+  ],
+  "SimpleBucket": [
+    "SimpleBucket__CraftsmansNook__360"
+  ],
+  "SimpleLaundryHanger": [
+    "SimpleLaundryHanger__CraftsmansNook__361"
+  ],
+  "SmallBasket": [
+    "SmallBasket__CraftsmansNook__362"
+  ],
+  "SmallClosedBasket": [
+    "SmallClosedBasket__CraftsmansNook__363"
+  ],
+  "Vase": [
+    "Vase__CraftsmansNook__364"
+  ],
+  "BlossomveilBush": [
+    "BlossomveilBush__FlowersGarden__365"
+  ],
+  "SnowpetalBunch": [
+    "SnowpetalBunch__FlowersGarden__366"
+  ],
+  "SunflowerPatch": [
+    "SunflowerPatch__FlowersGarden__367"
+  ],
+  "SunleafCluster": [
+    "SunleafCluster__FlowersGarden__368"
+  ],
+  "PitBench": [
+    "PitBench__CraftsmansNook__369"
+  ],
+  "ReinforcedLog": [
+    "ReinforcedLog__CraftsmansNook__370"
+  ],
+  "WoodenChair": [
+    "WoodenChair__CraftsmansNook__371"
+  ],
+  "WoodenStool": [
+    "WoodenStool__CraftsmansNook__372"
+  ],
+  "DaruShrine": [
+    "DaruShrine__CraftsmansNook__373"
+  ],
+  "DevannosShrine": [
+    "DevannosShrine__CraftsmansNook__374"
+  ],
+  "ErdanaShrine": [
+    "ErdanaShrine__CraftsmansNook__375"
+  ],
+  "KranekShrine": [
+    "KranekShrine__CraftsmansNook__376"
+  ],
+  "MorvathisShrine": [
+    "MorvathisShrine__CraftsmansNook__377"
+  ],
+  "VeylnorShrine": [
+    "VeylnorShrine__CraftsmansNook__378"
+  ],
+  "YdrassaShrine": [
+    "YdrassaShrine__CraftsmansNook__379"
+  ],
+  "DamagedGrave": [
+    "DamagedGrave__CraftsmansNook__380"
+  ],
+  "DevastatedGrave": [
+    "DevastatedGrave__CraftsmansNook__381"
+  ],
+  "Grave": [
+    "Grave__CraftsmansNook__382"
+  ],
+  "LargeLogStack": [
+    "LargeLogStack__CraftsmansNook__383"
+  ],
+  "OrganizedTimberStack": [
+    "OrganizedTimberStack__CraftsmansNook__384"
+  ],
+  "SmallFirewoodPile": [
+    "SmallFirewoodPile__CraftsmansNook__385"
+  ],
+  "StoneTomb": [
+    "StoneTomb__CraftsmansNook__386"
+  ],
+  "SturdyBench": [
+    "SturdyBench__CraftsmansNook__387"
+  ],
+  "SturdyChair": [
+    "SturdyChair__CraftsmansNook__388"
+  ],
+  "SturdyLittleBench": [
+    "SturdyLittleBench__CraftsmansNook__389"
+  ],
+  "SturdyStool": [
+    "SturdyStool__CraftsmansNook__390"
+  ],
+  "Apple": [
+    "Apple__Orchard__391"
+  ],
+  "BoarCarcass": [
+    "BoarCarcass__ButcheryRack__392"
+  ],
+  "ChamoisCarcass": [
+    "ChamoisCarcass__ButcheryRack__393"
+  ],
+  "ChickenCarcass": [
+    "ChickenCarcass__ButcheryBench__394"
+  ],
+  "CrowCarcass": [
+    "CrowCarcass__ButcheryBench__395"
+  ],
+  "DeerCarcass": [
+    "DeerCarcass__ButcheryRack__396"
+  ],
+  "FarmBoarCarcass": [
+    "FarmBoarCarcass__ButcheryRack__397"
+  ],
+  "Flax": [
+    "Flax__SmallFarm__398"
+  ],
+  "FoxCarcass": [
+    "FoxCarcass__ButcheryBench__399"
+  ],
+  "GanderCarcass": [
+    "GanderCarcass__ButcheryBench__400"
+  ],
+  "Garlic": [
+    "Garlic__SmallFarm__401"
+  ],
+  "GooseCarcass": [
+    "GooseCarcass__ButcheryBench__402"
+  ],
+  "Hemp": [
+    "Hemp__SmallFarm__403"
+  ],
+  "HighlandWolfCarcass": [
+    "HighlandWolfCarcass__ButcheryRack__404"
+  ],
+  "IronOre": [
+    "IronOre__RockCrushingSpot__405"
+  ],
+  "PigeonCarcass": [
+    "PigeonCarcass__ButcheryBench__406"
+  ],
+  "RabbitCarcass": [
+    "RabbitCarcass__ButcheryBench__407"
+  ],
+  "RamCarcass": [
+    "RamCarcass__ButcheryRack__408"
+  ],
+  "RoosterCarcass": [
+    "RoosterCarcass__ButcheryBench__409"
+  ],
+  "Sage": [
+    "Sage__SmallFarm__410"
+  ],
+  "SeagullCarcass": [
+    "SeagullCarcass__ButcheryBench__411"
+  ],
+  "SheepCarcass": [
+    "SheepCarcass__ButcheryRack__412"
+  ],
+  "SowCarcass": [
+    "SowCarcass__ButcheryRack__413"
+  ],
+  "Straw": [
+    "Straw__Thresher__414"
+  ],
+  "TreeSapling": [
+    "TreeSapling__Forester__415"
+  ],
+  "WildGoatCarcass": [
+    "WildGoatCarcass__ButcheryRack__416"
+  ],
+  "WolfCarcass": [
+    "WolfCarcass__ButcheryRack__417"
+  ],
+  "Wood": [
+    "Wood__LumberjackSpot__418"
+  ],
+  "YoungWildGoatCarcass": [
+    "YoungWildGoatCarcass__ButcheryBench__419"
+  ],
+  "AdvancedAnimalFeed": [
+    "AdvancedAnimalFeed__MixingBucket__420",
+    "AdvancedAnimalFeed__MixingBucket__421",
+    "AdvancedAnimalFeed__MixingBucket__422",
+    "AdvancedAnimalFeed__MixingBucket__423",
+    "AdvancedAnimalFeed__MixingBucket__424"
+  ],
+  "BronzeIngot": [
+    "BronzeIngot__Bloomery__425"
+  ],
+  "Charcoal": [
+    "Charcoal__CoalBurner__426",
+    "Charcoal__Kiln__427",
+    "Charcoal__CoalBurner__428"
+  ],
+  "CopperIngot": [
+    "CopperIngot__Bloomery__429"
+  ],
+  "Linen": [
+    "Linen__WeaverLoom__430"
+  ],
+  "Rope": [
+    "Rope__WeaverLoom__431"
+  ],
+  "SimpleCord": [
+    "SimpleCord__WeaverLoom__432"
+  ],
+  "Thatch": [
+    "Thatch__WeaverLoom__433"
+  ],
+  "TinIngot": [
+    "TinIngot__Bloomery__434"
+  ],
+  "CompoundAnimalFeed": [
+    "CompoundAnimalFeed__MixingBucket__435",
+    "CompoundAnimalFeed__MixingBucket__436",
+    "CompoundAnimalFeed__MixingBucket__437",
+    "CompoundAnimalFeed__MixingBucket__438"
+  ],
+  "BerryJam": [
+    "BerryJam__CauldronStews__439"
+  ],
+  "BoiledEggs": [
+    "BoiledEggs__CauldronStews__440"
+  ],
+  "DriedBerries": [
+    "DriedBerries__ForagerRack__441"
+  ],
+  "DriedMushroom": [
+    "DriedMushroom__ForagerRack__442"
+  ],
+  "GrilledFish": [
+    "GrilledFish__GrilledFood__443"
+  ],
+  "Gruel": [
+    "Gruel__CauldronStews__444"
+  ],
+  "LargePieceCookedMeat": [
+    "LargePieceCookedMeat__GrilledFood__445"
+  ],
+  "MushroomStew": [
+    "MushroomStew__CauldronStews__446"
+  ],
+  "BurntFish": [
+    "BurntFish__GrilledFood__447",
+    "BurntFish__SmokedFood__448"
+  ],
+  "BurntMushroom": [
+    "BurntMushroom__GrilledFood__449",
+    "BurntMushroom__SmokedFood__450"
+  ],
+  "LargePieceBurntMeat": [
+    "LargePieceBurntMeat__GrilledFood__451",
+    "LargePieceBurntMeat__SmokedFood__452"
+  ],
+  "PieceBurntMeat": [
+    "PieceBurntMeat__GrilledFood__453",
+    "PieceBurntMeat__SmokedFood__454"
+  ],
+  "SmallPieceBurntMeat": [
+    "SmallPieceBurntMeat__GrilledFood__455",
+    "SmallPieceBurntMeat__SmokedFood__456"
+  ],
+  "PieceCookedMeat": [
+    "PieceCookedMeat__GrilledFood__457"
+  ],
+  "PoachedEggs": [
+    "PoachedEggs__CauldronStews__458"
+  ],
+  "RoastedMushroom": [
+    "RoastedMushroom__GrilledFood__459"
+  ],
+  "SmallPieceCookedMeat": [
+    "SmallPieceCookedMeat__GrilledFood__460"
+  ],
+  "SmokedFish": [
+    "SmokedFish__SmokedFood__461"
+  ],
+  "SmokedLargePieceMeat": [
+    "SmokedLargePieceMeat__SmokedFood__462"
+  ],
+  "SmokedMushroom": [
+    "SmokedMushroom__SmokedFood__463"
+  ],
+  "SmokedPieceMeat": [
+    "SmokedPieceMeat__SmokedFood__464"
+  ],
+  "SmokedSmallPieceMeat": [
+    "SmokedSmallPieceMeat__SmokedFood__465"
+  ],
+  "RoughAnimalFeed": [
+    "RoughAnimalFeed__MixingBucket__466",
+    "RoughAnimalFeed__MixingBucket__467",
+    "RoughAnimalFeed__MixingBucket__468",
+    "RoughAnimalFeed__MixingBucket__469"
+  ],
+  "Beetroot": [
+    "Beetroot__SmallFarm__470"
+  ],
+  "FishingBait": [
+    "FishingBait__MixingBucket__471",
+    "FishingBait__MixingBucket__472",
+    "FishingBait__MixingBucket__473"
+  ],
+  "Onion": [
+    "Onion__SmallFarm__474"
+  ],
+  "Potato": [
+    "Potato__SmallFarm__475"
+  ],
+  "Wheat": [
+    "Wheat__SmallFarm__476"
+  ],
+  "Cob": [
+    "Cob__MixingBucket__477"
+  ],
+  "CopperNails": [
+    "CopperNails__BasicRefines__478"
+  ],
+  "Fertilizer": [
+    "Fertilizer__Composting__479",
+    "Fertilizer__Composting__480",
+    "Fertilizer__Composting__481",
+    "Fertilizer__Composting__482",
+    "Fertilizer__Composting__483",
+    "Fertilizer__MixingBucket__484",
+    "Fertilizer__Composting__485"
+  ],
+  "IronIngot": [
+    "IronIngot__SmeltingFurnace__486"
+  ],
+  "Leather": [
+    "Leather__Leatherworking__487"
+  ],
+  "RawHide": [
+    "RawHide__DryingRack__488"
+  ],
+  "ShipwrightsPack": [
+    "ShipwrightsPack__AdvancedRefines__489"
+  ],
+  "SteelIngot": [
+    "SteelIngot__AdvancedSmelter__490"
+  ],
+  "Strap": [
+    "Strap__AdvancedRefines__491"
+  ],
+  "WoodenPlank": [
+    "WoodenPlank__PitSaw__492",
+    "WoodenPlank__AdvancedPitSaw__493"
+  ],
+  "BeetrootJam": [
+    "BeetrootJam__TavernStews__494"
+  ],
+  "FineStew": [
+    "FineStew__CauldronStews__495",
+    "FineStew__CauldronStews__496",
+    "FineStew__CauldronStews__497"
+  ],
+  "FishStew": [
+    "FishStew__CauldronStews__498"
+  ],
+  "Honey": [
+    "Honey__Apiary__499"
+  ],
+  "MashedPotatoes": [
+    "MashedPotatoes__CauldronStews__500"
+  ],
+  "MeatStew": [
+    "MeatStew__CauldronStews__501",
+    "MeatStew__CauldronStews__502",
+    "MeatStew__CauldronStews__503"
+  ],
+  "VegetableSoup": [
+    "VegetableSoup__CauldronStews__504"
+  ],
+  "Grains": [
+    "Grains__Thresher__505"
+  ],
+  "Radish": [
+    "Radish__SmallFarm__506"
+  ],
+  "Resin": [
+    "Resin__CoalBurner__507"
+  ],
+  "Turnip": [
+    "Turnip__SmallFarm__508"
+  ],
+  "Canvas": [
+    "Canvas__AdvancedWeaverLoom__509"
+  ],
+  "Cotton": [
+    "Cotton__SmallFarm__510"
+  ],
+  "CottonBolt": [
+    "CottonBolt__AdvancedWeaverLoom__511"
+  ],
+  "CrudeFur": [
+    "CrudeFur__Leatherworking__512"
+  ],
+  "CuredRope": [
+    "CuredRope__AdvancedWeaverLoom__513"
+  ],
+  "HardPlank": [
+    "HardPlank__PitSaw__514",
+    "HardPlank__AdvancedPitSaw__515"
+  ],
+  "Nails": [
+    "Nails__AdvancedRefines__516"
+  ],
+  "Tinplate": [
+    "Tinplate__Workshop__517"
+  ],
+  "ApplePie": [
+    "ApplePie__Bakery__518"
+  ],
+  "BerryBread": [
+    "BerryBread__Bakery__519"
+  ],
+  "BerryScones": [
+    "BerryScones__Bakery__520"
+  ],
+  "Bread": [
+    "Bread__Bakery__521"
+  ],
+  "Cheese": [
+    "Cheese__CheeseProduction__522",
+    "Cheese__CheeseProduction__523"
+  ],
+  "CheeseOmelette": [
+    "CheeseOmelette__TavernStews__524"
+  ],
+  "Flour": [
+    "Flour__Windmill__525"
+  ],
+  "HoneyCakes": [
+    "HoneyCakes__Bakery__526"
+  ],
+  "MilkPorridge": [
+    "MilkPorridge__TavernStews__527"
+  ],
+  "SpicedHeartyMeatStew": [
+    "SpicedHeartyMeatStew__TavernStews__528"
+  ],
+  "SpicedMeatPie": [
+    "SpicedMeatPie__Bakery__529"
+  ],
+  "SpicedMeatRoast": [
+    "SpicedMeatRoast__Inn__530"
+  ],
+  "SpicedMeatStew": [
+    "SpicedMeatStew__TavernStews__531"
+  ],
+  "SpicedOnionSoup": [
+    "SpicedOnionSoup__TavernStews__532"
+  ],
+  "SpicedRusticStew": [
+    "SpicedRusticStew__TavernStews__533"
+  ],
+  "SpicedVegetableSoup": [
+    "SpicedVegetableSoup__TavernStews__534"
+  ],
+  "Spices": [
+    "Spices__MixingBucket__535"
+  ],
+  "Grape": [
+    "Grape__Orchard__536"
+  ],
+  "Hops": [
+    "Hops__Orchard__537"
+  ],
+  "Lemon": [
+    "Lemon__Orchard__538"
+  ],
+  "Olive": [
+    "Olive__Orchard__539"
+  ],
+  "Beer": [
+    "Beer__Distillery__540"
+  ],
+  "Wine": [
+    "Wine__Distillery__541"
+  ],
+  "BasicDye": [
+    "BasicDye__unknown__542"
+  ],
+  "ClayBrick": [
+    "ClayBrick__unknown__543"
+  ],
+  "Coins": [
+    "Coins__CoinMint__544"
+  ],
+  "SilverBar": [
+    "SilverBar__unknown__545"
+  ],
+  "FineLeather": [
+    "FineLeather__TannersHouse__546"
+  ],
+  "BerryTart": [
+    "BerryTart__Bakery__547"
+  ],
+  "CloudberryBread": [
+    "CloudberryBread__Bakery__548"
+  ],
+  "CloudberryJam": [
+    "CloudberryJam__Inn__549"
+  ],
+  "CloudberryTart": [
+    "CloudberryTart__Bakery__550"
+  ],
+  "CranberryJam": [
+    "CranberryJam__Inn__551"
+  ],
+  "FineMeatPie": [
+    "FineMeatPie__Bakery__552"
+  ],
+  "FineMeatRoast": [
+    "FineMeatRoast__Inn__553"
+  ],
+  "FineMeatSoup": [
+    "FineMeatSoup__Inn__554"
+  ],
+  "FineMeatStew": [
+    "FineMeatStew__Inn__555"
+  ],
+  "FineVegetableStew": [
+    "FineVegetableStew__TavernStews__556"
+  ],
+  "GrapeMust": [
+    "GrapeMust__MixingBucket__557"
+  ],
+  "Malt": [
+    "Malt__MixingBucket__558"
+  ],
+  "Glass": [
+    "Glass__Glassworks__559"
+  ],
+  "Ink": [
+    "Ink__unknown__560"
+  ],
+  "Shales": [
+    "Shales__StonemasonsHut__561"
+  ],
+  "StoneBlock": [
+    "StoneBlock__StonemasonsHut__562"
+  ],
+  "ArrowRackItem": [
+    "ArrowRackItem__BasicGear__563"
+  ],
+  "BoarTrophyItem": [
+    "BoarTrophyItem__CraftsmansNook__564"
+  ],
+  "CartItem": [
+    "CartItem__CartStation__565"
+  ],
+  "ClawfinTrophy": [
+    "ClawfinTrophy__CraftsmansNook__566"
+  ],
+  "DemonBoarTrophyItem": [
+    "DemonBoarTrophyItem__CraftsmansNook__567"
+  ],
+  "GoldenBandedfishTrophy": [
+    "GoldenBandedfishTrophy__CraftsmansNook__568"
+  ],
+  "RabbitTrapItem": [
+    "RabbitTrapItem__BasicGear__569"
+  ],
+  "SilverBroadfinTrophy": [
+    "SilverBroadfinTrophy__CraftsmansNook__570"
+  ],
+  "SpottedGluttonfishTrophy": [
+    "SpottedGluttonfishTrophy__CraftsmansNook__571"
+  ],
+  "StagTrophyItem": [
+    "StagTrophyItem__CraftsmansNook__572"
+  ],
+  "StandingTorchItem": [
+    "StandingTorchItem__BasicGear__573"
+  ],
+  "WolfTrophyItem": [
+    "WolfTrophyItem__CraftsmansNook__574"
+  ],
+  "AshbourneSword": [
+    "AshbourneSword__Blacksmith__575"
+  ],
+  "BlackTuskerCarcass": [
+    "BlackTuskerCarcass__ButcheryRack__576"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-07-07T20:35:15.472114+00:00",
+  "counts": {
+    "items": 1522,
+    "stations": 81,
+    "unlocks": 371,
+    "recipes": 576,
+    "buildings": 222
+  },
+  "files": {
+    "items": "items.json",
+    "stations": "stations.json",
+    "unlocks": "unlocks.json",
+    "recipes": "recipes.json",
+    "buildings": "buildings.json",
+    "recipesByOutput": "recipes-by-output.json",
+    "recipesByStation": "recipes-by-station.json",
+    "buildingsByCategory": "buildings-by-category.json"
+  }
+}
