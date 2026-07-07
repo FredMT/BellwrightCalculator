@@ -1,5 +1,5 @@
 <script>
-  let { extractedDate = null, githubUrl = 'https://github.com' } = $props();
+  let { extractedDate = null, githubUrl = 'https://github.com/FredMT/BellwrightCalculator' } = $props();
 </script>
 
 <footer class="panel-parchment iron-border border-t-0 px-6 flex flex-col items-center gap-6 shrink-0 mt-auto py-3">
