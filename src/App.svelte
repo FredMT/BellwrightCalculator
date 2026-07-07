@@ -86,7 +86,7 @@
               <SearchInput
                 items={recipeItems}
                 onadd={handleAddRecipe}
-                placeholder="Search items (e.g., Bronze Axe)"
+                placeholder="Search items (e.g., Copper Nails)"
               />
             </div>
             {#if craftQueue.length > 0}

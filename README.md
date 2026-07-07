@@ -1,43 +1,59 @@
-# Svelte + Vite
+# Bellwright Crafting Calculator
 
-This template should help get you started developing with Svelte in Vite.
+An unofficial, crafting calculator for [Bellwright](https://store.steampowered.com/app/1812450/Bellwright/). Plan what to craft and build, queue multiple items, and see aggregated material requirements in one place.
 
-## Recommended IDE Setup
+**Not an official Bellwright tool.**
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+## Features
 
-## Need an official Svelte framework?
+- **Craft queue** — search and add craftable items (576 recipes), adjust quantities, and see per-item inputs
+- **Building queue** — search and add settlement buildings (222 buildings) with the same workflow
+- **Material summary** — totals all required resources across both queues; check off materials as you gather them
+- **Search with icons** — filter by name with inline item icons in the dropdown
+- **Persistent state** — queues and checked materials are saved to `localStorage` and restored when you reopen the tab
+- **Fully client-side** — no backend; game data is loaded as static JSON
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
+## Tech stack
 
-## Technical considerations
+- [Svelte 5](https://svelte.dev/) + [Vite](https://vite.dev/)
+- [Tailwind CSS v4](https://tailwindcss.com/)
+- Static JSON data in `public/data/`
 
-**Why use this over SvelteKit?**
+## Getting started
 
-- It brings its own routing solution which might not be preferable for some users.
-- It is first and foremost a framework that just happens to use Vite under the hood, not a Vite app.
-
-This template contains as little as possible to get started with Vite + Svelte, while taking into account the developer experience with regards to HMR and intellisense. It demonstrates capabilities on par with the other `create-vite` templates and is a good starting point for beginners dipping their toes into a Vite + Svelte project.
-
-Should you later need the extended capabilities and extensibility provided by SvelteKit, the template has been structured similarly to SvelteKit so that it is easy to migrate.
-
-**Why include `.vscode/extensions.json`?**
-
-Other templates indirectly recommend extensions via the README, but this file allows VS Code to prompt the user to install the recommended extension upon opening the project.
-
-**Why enable `checkJs` in the JS template?**
-
-It is likely that most cases of changing variable types in runtime are likely to be accidental, rather than deliberate. This provides advanced typechecking out of the box. Should you like to take advantage of the dynamically-typed nature of JavaScript, it is trivial to change the configuration.
-
-**Why is HMR not preserving my local component state?**
-
-HMR state preservation comes with a number of gotchas! It has been disabled by default in both `svelte-hmr` and `@sveltejs/vite-plugin-svelte` due to its often surprising behavior. You can read the details [here](https://github.com/sveltejs/svelte-hmr/tree/master/packages/svelte-hmr#preservation-of-local-state).
-
-If you have state that's important to retain within a component, consider creating an external store which would not be replaced by HMR.
-
-```js
-// store.js
-// An extremely simple external store
-import { writable } from 'svelte/store'
-export default writable(0)
+```bash
+npm install
+npm run dev
 ```
+
+Open the URL shown in the terminal (usually `http://localhost:5173`).
+
+### Build for production
+
+```bash
+npm run build
+npm run preview
+```
+
+The output is in `dist/`.
+
+## Game data
+
+Crafting and building requirements come from processed Bellwright export data:
+
+| File | Contents |
+|------|----------|
+| `recipes.json` | 576 craft recipes (inputs, outputs, stations) |
+| `buildings.json` | 222 settlement buildings and their build costs |
+| `recipes-by-output.json` | Index for recipes that share the same output item |
+| `meta.json` | Extraction timestamp and file counts |
+
+Material totals use **direct inputs only** — craftable sub-components are not broken down into raw materials.
+
+## Icons
+
+Item icons use texture names from the game data (`T_Rope_D1`, etc.); missing icons fall back to `public/icons/fallback.svg`.
+
+## License
+
+Unofficial fan tool. Bellwright and related assets are property of their respective owners.
