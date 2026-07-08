@@ -1,6 +1,8 @@
 <script>
   import ItemIcon from './ItemIcon.svelte';
   import { isMaterialChecked, toggleMaterialChecked } from './queue.svelte.js';
+  import CheckboxMarkedIcon from '@iconify-svelte/mdi/checkbox-marked';
+  import CheckboxBlankOutlineIcon from '@iconify-svelte/mdi/checkbox-blank-outline';
 
   let { material } = $props();
 
@@ -19,11 +21,14 @@
     </div>
     <button
       class="w-8 h-8 btn-iron iron-border rounded-sm flex items-center justify-center active:scale-95 cursor-pointer"
+      aria-label={checked ? 'Mark material as needed' : 'Mark material as collected'}
       onclick={() => toggleMaterialChecked(material.itemId)}
     >
-      <span class="material-symbols-outlined text-sm">
-        {checked ? 'check_box' : 'check_box_outline_blank'}
-      </span>
+      {#if checked}
+        <CheckboxMarkedIcon height="1em" aria-hidden="true" />
+      {:else}
+        <CheckboxBlankOutlineIcon height="1em" aria-hidden="true" />
+      {/if}
     </button>
   </div>
 </li>

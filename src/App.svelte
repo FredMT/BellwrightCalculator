@@ -22,6 +22,9 @@
   import QueueItem from './lib/QueueItem.svelte';
   import MaterialRow from './lib/MaterialRow.svelte';
   import Footer from './lib/Footer.svelte';
+  import SwordCrossIcon from '@iconify-svelte/mdi/sword-cross';
+  import OfficeBuildingIcon from '@iconify-svelte/mdi/office-building';
+  import ClipboardListIcon from '@iconify-svelte/mdi/clipboard-list';
 
   let recipeItems = $derived(getRecipeSearchItems());
   let buildingItems = $derived(getBuildingSearchItems());
@@ -80,7 +83,7 @@
           <div class="panel-parchment iron-border rounded-sm p-5 flex flex-col gap-4">
             <div class="flex items-center justify-between border-b border-parchment-dark pb-2">
               <h3 class="font-[var(--font-family-headline)] text-[24px] leading-[32px] font-semibold text-on-parchment">Items to Craft</h3>
-              <span class="material-symbols-outlined text-on-parchment-muted">swords</span>
+              <span class="text-on-parchment-muted"><SwordCrossIcon height="1em" aria-hidden="true" /></span>
             </div>
             <div class="flex gap-2">
               <SearchInput
@@ -106,7 +109,7 @@
           <div class="panel-parchment iron-border rounded-sm p-5 flex flex-col gap-4">
             <div class="flex items-center justify-between border-b border-parchment-dark pb-2">
               <h3 class="font-[var(--font-family-headline)] text-[24px] leading-[32px] font-semibold text-on-parchment">Buildings to Process</h3>
-              <span class="material-symbols-outlined text-on-parchment-muted">foundation</span>
+              <span class="text-on-parchment-muted"><OfficeBuildingIcon height="1em" aria-hidden="true" /></span>
             </div>
             <div class="flex gap-2">
               <SearchInput
@@ -134,7 +137,7 @@
           <div class="bg-surface-container-high iron-border rounded-sm flex flex-col flex-1 min-h-0 overflow-hidden">
             <div class="bg-surface-container-highest p-4 border-b-2 border-outline-variant flex items-center justify-between shrink-0">
               <h2 class="font-[var(--font-family-headline)] text-[24px] leading-[32px] font-semibold text-primary">Required Materials</h2>
-              <span class="material-symbols-outlined text-tertiary">summarize</span>
+              <span class="text-tertiary"><ClipboardListIcon height="1em" aria-hidden="true" /></span>
             </div>
             <div class="flex-1 min-h-0 overflow-y-auto p-4 custom-scrollbar bg-surface-dim">
               {#if materials.length > 0}

@@ -60,8 +60,8 @@
   --color-on-parchment-muted: #5c4033;
   --color-parchment-accent: #d4ad9c;
 
-  --font-family-headline: "Bricolage Grotesque", sans-serif;
-  --font-family-body: "Source Serif 4", serif;
+  --font-family-headline: "Lato", sans-serif;
+  --font-family-body: "Lato", sans-serif;
 }
 
 body {

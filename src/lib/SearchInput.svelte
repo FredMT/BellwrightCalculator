@@ -1,5 +1,6 @@
 <script>
   import ItemIcon from './ItemIcon.svelte';
+  import MagnifyIcon from '@iconify-svelte/mdi/magnify';
 
   /** @type {{ id: string, name: string, label?: string, icon: string|null }[]} */
   let { items = [], onadd = () => {}, placeholder = 'Search items...' } = $props();
@@ -90,7 +91,10 @@
 </script>
 
 <div class="relative flex-1">
-  <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-parchment-muted pointer-events-none">search</span>
+  <span class="absolute left-3 top-1/2 -translate-y-1/2 text-on-parchment-muted pointer-events-none">
+    <MagnifyIcon height="1em" aria-hidden="true" />
+  </span>
+
   <input
     bind:this={inputEl}
     bind:value={query}

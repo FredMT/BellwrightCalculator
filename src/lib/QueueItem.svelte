@@ -1,6 +1,9 @@
 <script>
   import ItemIcon from './ItemIcon.svelte';
   import { incrementQty, decrementQty } from './queue.svelte.js';
+  import MinusIcon from '@iconify-svelte/mdi/minus';
+  import PlusIcon from '@iconify-svelte/mdi/plus';
+  import DeleteIcon from '@iconify-svelte/mdi/delete';
 
   let { item, onremove = () => {} } = $props();
 
@@ -32,23 +35,26 @@
   <div class="flex items-center gap-2 bg-parchment-accent iron-border-inset p-1 rounded-sm shrink-0">
     <button
       class="w-6 h-6 flex items-center justify-center hover:bg-[#c49d8c] text-on-parchment cursor-pointer"
+      aria-label="Decrease quantity"
       onclick={() => decrementQty(item)}
     >
-      <span class="material-symbols-outlined text-sm">remove</span>
+      <MinusIcon height="2em" aria-hidden="true" />
     </button>
     <span class="text-on-parchment w-8 text-center font-bold">{item.quantity}</span>
     <button
       class="w-6 h-6 flex items-center justify-center hover:bg-[#c49d8c] text-on-parchment cursor-pointer"
+      aria-label="Increase quantity"
       onclick={() => incrementQty(item)}
     >
-      <span class="material-symbols-outlined text-sm">add</span>
+      <PlusIcon height="2em" aria-hidden="true" />
     </button>
   </div>
 
   <button
-    class="text-error hover:text-error-container p-1 cursor-pointer shrink-0"
+    class="text-on-error hover:text-error-container p-1 cursor-pointer shrink-0"
+    aria-label="Remove from queue"
     onclick={() => onremove(item.uid)}
   >
-    <span class="material-symbols-outlined">delete</span>
+    <DeleteIcon height="2em" aria-hidden="true" />
   </button>
 </li>
